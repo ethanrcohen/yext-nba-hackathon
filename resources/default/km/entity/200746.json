@@ -1,0 +1,53 @@
+{
+  "$id": "200746",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeFrom1": "2006",
+    "c_activeUntil1": "2021",
+    "c_draftNumber": "2",
+    "c_draftRound": "1",
+    "c_greatest75": false,
+    "c_height": "6-11",
+    "c_homeCountry": "USA",
+    "c_jerseyNumber": "21",
+    "c_photo": {
+      "height": 760,
+      "sourceUrl": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.png",
+      "thumbnails": [
+        {
+          "height": 760,
+          "url": "https://a.mktgcdn.com/p/Q_477Xzz9237s_VCo2Yqf--1vTrjfhlMeBlJzPKU6Yc/1040x760.png",
+          "width": 1040
+        },
+        {
+          "height": 452,
+          "url": "https://a.mktgcdn.com/p/Q_477Xzz9237s_VCo2Yqf--1vTrjfhlMeBlJzPKU6Yc/619x452.png",
+          "width": 619
+        },
+        {
+          "height": 438,
+          "url": "https://a.mktgcdn.com/p/Q_477Xzz9237s_VCo2Yqf--1vTrjfhlMeBlJzPKU6Yc/600x438.png",
+          "width": 600
+        },
+        {
+          "height": 143,
+          "url": "https://a.mktgcdn.com/p/Q_477Xzz9237s_VCo2Yqf--1vTrjfhlMeBlJzPKU6Yc/196x143.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/Q_477Xzz9237s_VCo2Yqf--1vTrjfhlMeBlJzPKU6Yc/1040x760.png",
+      "width": 1040
+    },
+    "c_position": "Center-Forward",
+    "c_school": "Texas-Austin",
+    "c_seasonsPlayed": "15",
+    "c_teamName": "Nets",
+    "c_weight": "250",
+    "firstName": "LaMarcus",
+    "lastName": "Aldridge",
+    "name": "LaMarcus Aldridge"
+  },
+  "entityType": "ce_nBAPlayer",
+  "labels": []
+}

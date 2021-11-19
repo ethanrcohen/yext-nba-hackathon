@@ -1,0 +1,18 @@
+{
+  "$id": "7971228518561494039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "categoryIds": [
+      "1340841"
+    ],
+    "name": "naptime",
+    "time": {
+      "end": "2021-11-19T13:00",
+      "start": "2021-11-19T12:00"
+    },
+    "timezone": "America/New_York"
+  },
+  "entityType": "event",
+  "labels": []
+}

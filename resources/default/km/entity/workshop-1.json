@@ -1,0 +1,49 @@
+{
+  "$id": "workshop-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_date": "2021-12-13",
+    "c_teacher": [
+      "instructor-1"
+    ],
+    "c_time": {
+      "friday": {
+        "isClosed": true
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "09:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      }
+    },
+    "linkedLocation": "location-3",
+    "name": "Headstand Workshop",
+    "price": {
+      "currencyCode": "USD",
+      "value": "100"
+    },
+    "richTextDescription": "Let\u0027s work on our headstands on a Monday morning! It will get us upside down and boucning off the ceiling before we start our weeks."
+  },
+  "entityType": "ce_workshopsAndTrainings",
+  "labels": []
+}

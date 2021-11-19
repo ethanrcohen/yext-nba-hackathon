@@ -1,0 +1,34 @@
+{
+  "$id": "3ORFfAHkuQw",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Oops, I forgot to click record! Don\u0027t worry about what you missed :) we will do it again in another class I\u0027m sure. This class was a full body flow of fun to get ...",
+    "name": "fez flow - thriving",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d3ORFfAHkuQw"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-01",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/3ORFfAHkuQw/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/ZV7Cfns1YZ2j10E6MqlewUSQzIyUTUwh8fI3RVjM9gQ/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/ZV7Cfns1YZ2j10E6MqlewUSQzIyUTUwh8fI3RVjM9gQ/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d3ORFfAHkuQw"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "7A3b5thuyxsHwpBctzuSJm",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Matt",
+    "c_playlistURL": "https://open.spotify.com/playlist/7A3b5thuyxsHwpBctzuSJm",
+    "name": "305 Pop Party",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2732cbb5f97a0853d1c7cbbe231ab67616d0000b2734ff32c7a5a4a1ff98fc3a826ab67616d0000b2739a95e89d24214b94de36ccf7ab67616d0000b273f22e1263704f24cb504700ea",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/iL5fws4kVzfYa6nzXreYaBZr2jBTYyaWbwoEQf7v_hE/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iL5fws4kVzfYa6nzXreYaBZr2jBTYyaWbwoEQf7v_hE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iL5fws4kVzfYa6nzXreYaBZr2jBTYyaWbwoEQf7v_hE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iL5fws4kVzfYa6nzXreYaBZr2jBTYyaWbwoEQf7v_hE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iL5fws4kVzfYa6nzXreYaBZr2jBTYyaWbwoEQf7v_hE/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2732cbb5f97a0853d1c7cbbe231ab67616d0000b2734ff32c7a5a4a1ff98fc3a826ab67616d0000b2739a95e89d24214b94de36ccf7ab67616d0000b273f22e1263704f24cb504700ea",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/HO00Gx0nmqJq805RSUrEvLTNhzB9AhV6JdMWOsxNbCM/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HO00Gx0nmqJq805RSUrEvLTNhzB9AhV6JdMWOsxNbCM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HO00Gx0nmqJq805RSUrEvLTNhzB9AhV6JdMWOsxNbCM/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2732cbb5f97a0853d1c7cbbe231ab67616d0000b2734ff32c7a5a4a1ff98fc3a826ab67616d0000b2739a95e89d24214b94de36ccf7ab67616d0000b273f22e1263704f24cb504700ea",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/a9fEauB-mS42P69ZHghi65XNbQmm75_E0EAnbgNaBeg/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/a9fEauB-mS42P69ZHghi65XNbQmm75_E0EAnbgNaBeg/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

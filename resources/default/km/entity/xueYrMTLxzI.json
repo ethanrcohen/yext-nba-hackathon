@@ -1,0 +1,34 @@
+{
+  "$id": "xueYrMTLxzI",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Welcome to a fun spring themed class. We\u0027ll do a bunch of twists to get around ourselves and make space for what\u0027s new to come. For class, you will need: 1 or ...",
+    "name": "fez flow - Spring !",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dxueYrMTLxzI"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-02-14",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/xueYrMTLxzI/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/2ao8WKMYH_rkejJJm5gzRnTRQ0fQIgd6ZJeCmboeGG4/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/2ao8WKMYH_rkejJJm5gzRnTRQ0fQIgd6ZJeCmboeGG4/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dxueYrMTLxzI"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

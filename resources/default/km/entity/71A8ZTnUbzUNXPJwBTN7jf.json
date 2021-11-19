@@ -1,0 +1,45 @@
+{
+  "$id": "71A8ZTnUbzUNXPJwBTN7jf",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Miracle Tones",
+    "c_playlistURL": "https://open.spotify.com/playlist/71A8ZTnUbzUNXPJwBTN7jf",
+    "description": "Scales for frequency \u0026amp; sound therapy, relaxation, mindfulness, deep meditation \u0026amp; sleep. Helping Hz tones to balance body \u0026amp; mind and clear energy blockages",
+    "name": "Chakra Healing Frequencies 🧘‍♀️ Solfeggio",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebb23fff7d18f798bca76d81331",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/D02t24dbJfaJUExWlqurfHCP4vGpFLJMneKlZlAAL2Y/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/D02t24dbJfaJUExWlqurfHCP4vGpFLJMneKlZlAAL2Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/D02t24dbJfaJUExWlqurfHCP4vGpFLJMneKlZlAAL2Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/D02t24dbJfaJUExWlqurfHCP4vGpFLJMneKlZlAAL2Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/D02t24dbJfaJUExWlqurfHCP4vGpFLJMneKlZlAAL2Y/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

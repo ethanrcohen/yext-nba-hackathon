@@ -1,0 +1,12 @@
+{
+  "$id": "64B9OVE0HxhPPHWnPpVtDR",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/64B9OVE0HxhPPHWnPpVtDR",
+    "name": "Plane"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

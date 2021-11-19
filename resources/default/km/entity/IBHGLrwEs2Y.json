@@ -1,0 +1,34 @@
+{
+  "$id": "IBHGLrwEs2Y",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Welcome to a yoga class that also takes you through Berlin\u0027s most well known sites aka Brandenburg Gate, Berlin Wall, TV Tower, you get the gist! For class you ...",
+    "name": "fez flow - A berlin theme",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dIBHGLrwEs2Y"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-14",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/IBHGLrwEs2Y/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/-dctQCISe8tFUogGgfT0i5VQDILo6IgLxUKGAF0DsW4/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/-dctQCISe8tFUogGgfT0i5VQDILo6IgLxUKGAF0DsW4/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dIBHGLrwEs2Y"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

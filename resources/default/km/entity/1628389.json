@@ -1,0 +1,53 @@
+{
+  "$id": "1628389",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeFrom1": "2017",
+    "c_activeUntil1": "2021",
+    "c_draftNumber": "14",
+    "c_draftRound": "1",
+    "c_greatest75": false,
+    "c_height": "6-9",
+    "c_homeCountry": "USA",
+    "c_jerseyNumber": "13",
+    "c_photo": {
+      "height": 1024,
+      "sourceUrl": "https://media.gettyimages.com/photos/bam-adebayo-of-the-miami-heat-poses-for-a-head-shot-during-media-day-picture-id1172678280",
+      "thumbnails": [
+        {
+          "height": 1024,
+          "url": "https://a.mktgcdn.com/p/mHIVBWoP_TCeZ_0tfcbLodqkBA5qjj3t_t8F3SbQUzM/683x1024.jpg",
+          "width": 683
+        },
+        {
+          "height": 928,
+          "url": "https://a.mktgcdn.com/p/mHIVBWoP_TCeZ_0tfcbLodqkBA5qjj3t_t8F3SbQUzM/619x928.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p/mHIVBWoP_TCeZ_0tfcbLodqkBA5qjj3t_t8F3SbQUzM/300x450.jpg",
+          "width": 300
+        },
+        {
+          "height": 294,
+          "url": "https://a.mktgcdn.com/p/mHIVBWoP_TCeZ_0tfcbLodqkBA5qjj3t_t8F3SbQUzM/196x294.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/mHIVBWoP_TCeZ_0tfcbLodqkBA5qjj3t_t8F3SbQUzM/683x1024.jpg",
+      "width": 683
+    },
+    "c_position": "Center-Forward",
+    "c_school": "Kentucky",
+    "c_seasonsPlayed": "4",
+    "c_teamName": "Heat",
+    "c_weight": "255",
+    "firstName": "Bam",
+    "lastName": "Adebayo",
+    "name": "Bam Adebayo"
+  },
+  "entityType": "ce_nBAPlayer",
+  "labels": []
+}

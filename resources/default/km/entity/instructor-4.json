@@ -1,0 +1,48 @@
+{
+  "$id": "instructor-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_aboutMe": "I began my practice over a decade ago in an attempt to metabolize deep grief and to understand the human condition through my own. After countless hours of practice + self study I began to shed the protective layers of my personality. I found myself thinking less and feeling more. I know now that our true nature is to love and to move from a space of open hearted compassion. I aim to get students back to this simple truth.",
+    "c_birthday": "2022-09-11",
+    "c_favePlaylistRn": [
+      "23gcpe7LaJBdzxl4xZymsR"
+    ],
+    "c_goToKaraokeSong": "I want it that way",
+    "c_hometown": "London, UK",
+    "c_inspirationalQuote": "\"Don\u0027t wish it was easier, wish you were better.\"",
+    "c_instagram": "https://www.instagram.com/movewithfez",
+    "c_pronouns": "he/him",
+    "c_specialTalent": "I can fly a helicopter.",
+    "c_training": "Has spent 12 years doing wheel pose with other master yoga teachers.",
+    "linkedLocation": "location-3",
+    "logo": {
+      "image": {
+        "height": 512,
+        "sourceUrl": "https://ca.slack-edge.com/ET8ARFBFY-W017DAP5K9Q-d0a281ec9a4e-512",
+        "thumbnails": [
+          {
+            "height": 512,
+            "url": "https://a.mktgcdn.com/p/PH8uWWcb2rnD5xgS6BxHE6hcj7iAwy9gd6tuycwfCfg/512x512.png",
+            "width": 512
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/PH8uWWcb2rnD5xgS6BxHE6hcj7iAwy9gd6tuycwfCfg/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/PH8uWWcb2rnD5xgS6BxHE6hcj7iAwy9gd6tuycwfCfg/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/PH8uWWcb2rnD5xgS6BxHE6hcj7iAwy9gd6tuycwfCfg/512x512.png",
+        "width": 512
+      }
+    },
+    "name": "Henry Kremer"
+  },
+  "entityType": "ce_instructors",
+  "labels": []
+}

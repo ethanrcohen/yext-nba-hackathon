@@ -1,0 +1,20 @@
+{
+  "$id": "42681608",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_classPrice": "13.00",
+    "c_eventDuration": "60",
+    "c_series": false,
+    "c_spotsAvailable": "45",
+    "c_totalSpots": "50",
+    "name": "fez yoga flow",
+    "time": {
+      "end": "2021-04-03T12:00",
+      "start": "2021-04-03T11:00"
+    },
+    "timezone": "Europe/Berlin"
+  },
+  "entityType": "event",
+  "labels": []
+}

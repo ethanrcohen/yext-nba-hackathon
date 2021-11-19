@@ -1,0 +1,34 @@
+{
+  "$id": "IU8JdZrFA9k",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "If you are looking for an OG danamaste flow with a mix of everything, take this class! You\u0027ll feel open all over afterwards and a bit sore tomorrow. :) For more info ...",
+    "name": "fez flow - your go to flow",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dIU8JdZrFA9k"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-24",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/IU8JdZrFA9k/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/EM1EXTGUUiBz92PNh7Tu4kG-tr6MjklWoSm8v4IlzcU/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/EM1EXTGUUiBz92PNh7Tu4kG-tr6MjklWoSm8v4IlzcU/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dIU8JdZrFA9k"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,53 @@
+{
+  "$id": "203500",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeFrom1": "2013",
+    "c_activeUntil1": "2021",
+    "c_draftNumber": "12",
+    "c_draftRound": "1",
+    "c_greatest75": false,
+    "c_height": "6-11",
+    "c_homeCountry": "New Zealand",
+    "c_jerseyNumber": "4",
+    "c_photo": {
+      "height": 760,
+      "sourceUrl": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png",
+      "thumbnails": [
+        {
+          "height": 760,
+          "url": "https://a.mktgcdn.com/p/BFbMoFfAh8kNrJ2E91gjBm1OeV6Wm59cbcUrntPX_zY/1040x760.png",
+          "width": 1040
+        },
+        {
+          "height": 452,
+          "url": "https://a.mktgcdn.com/p/BFbMoFfAh8kNrJ2E91gjBm1OeV6Wm59cbcUrntPX_zY/619x452.png",
+          "width": 619
+        },
+        {
+          "height": 438,
+          "url": "https://a.mktgcdn.com/p/BFbMoFfAh8kNrJ2E91gjBm1OeV6Wm59cbcUrntPX_zY/600x438.png",
+          "width": 600
+        },
+        {
+          "height": 143,
+          "url": "https://a.mktgcdn.com/p/BFbMoFfAh8kNrJ2E91gjBm1OeV6Wm59cbcUrntPX_zY/196x143.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/BFbMoFfAh8kNrJ2E91gjBm1OeV6Wm59cbcUrntPX_zY/1040x760.png",
+      "width": 1040
+    },
+    "c_position": "Center",
+    "c_school": "Pittsburgh",
+    "c_seasonsPlayed": "8",
+    "c_teamName": "Grizzlies",
+    "c_weight": "265",
+    "firstName": "Steven",
+    "lastName": "Adams",
+    "name": "Steven Adams"
+  },
+  "entityType": "ce_nBAPlayer",
+  "labels": []
+}

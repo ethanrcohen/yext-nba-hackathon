@@ -1,0 +1,34 @@
+{
+  "$id": "T8BIPEIpLAk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This is a mini class focusing on backbends. We will create space in our shoulders, back, etc. and 18 minutes later you\u0027ll leave feeling refreshed! You\u0027ll need a ...",
+    "name": "18 min. yoga short feat. backbends",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dT8BIPEIpLAk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-08",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/T8BIPEIpLAk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/wL8MbPlIs11mg3P2FLarlaSVX45GGgST3MeoknunBrc/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/wL8MbPlIs11mg3P2FLarlaSVX45GGgST3MeoknunBrc/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dT8BIPEIpLAk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

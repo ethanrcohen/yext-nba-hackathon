@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DXdam5VrqMf3y",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DXdam5VrqMf3y",
+    "description": "Your favorite holiday tunes, like you\u0027ve never heard before. Cover: Surfaces",
+    "name": "Spotify Singles: Holiday Collection",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f000000035705be6e67edccf770c32d09",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/FPJAqVmKcImDJ9futL2EWDoUEW4psHAYT8nHyqop4yM/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FPJAqVmKcImDJ9futL2EWDoUEW4psHAYT8nHyqop4yM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FPJAqVmKcImDJ9futL2EWDoUEW4psHAYT8nHyqop4yM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FPJAqVmKcImDJ9futL2EWDoUEW4psHAYT8nHyqop4yM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FPJAqVmKcImDJ9futL2EWDoUEW4psHAYT8nHyqop4yM/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

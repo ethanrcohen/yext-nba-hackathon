@@ -1,0 +1,89 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "answers-starter",
+  "name": "Answers",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "nbaplayers": {
+      "entityTypes": [
+        "ce_nBAPlayer"
+      ],
+      "name": "NBA Players",
+      "searchableFields": {
+        "c_birthdate": {
+          "textSearch": true
+        },
+        "c_draftRound": {
+          "textSearch": true
+        },
+        "c_draftYear": {
+          "textSearch": true
+        },
+        "c_height": {
+          "textSearch": true
+        },
+        "c_jerseyNumber": {
+          "textSearch": true
+        },
+        "c_position": {
+          "textSearch": true
+        },
+        "c_school": {
+          "textSearch": true
+        },
+        "c_seasonsPlayed": {
+          "textSearch": true
+        },
+        "c_weight": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "location",
+        "office",
+        "offices",
+        "restaurant",
+        "restaurants",
+        "store",
+        "stores",
+        "place",
+        "facility"
+      ],
+      [
+        "faq",
+        "question",
+        "frequently asked questions"
+      ],
+      [
+        "product",
+        "buy",
+        "offer",
+        "shop"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "Players from Texas",
+      "Nets players",
+      "Bam Adebayo"
+    ],
+    "verticalPrompts": {}
+  }
+}

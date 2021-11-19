@@ -1,0 +1,224 @@
+{
+  "$id": "youtube_videoConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v2",
+  "displayName": "YouTube Video Connector",
+  "entityType": "youtube_video",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://www.googleapis.com/youtube/v3/search",
+        "authentication": {
+          "apiKey": {
+            "key": "key",
+            "value": "${{km/connector.youtube_videoConnector.api_key_value}}",
+            "setAsHeader": false
+          }
+        },
+        "paginationControl": {
+          "cursorPagination": {
+            "pageKey": "pageToken",
+            "cursor": "nextPageToken",
+            "cursorType": "TOKEN",
+            "detectCursorInHeader": false
+          }
+        },
+        "headers": {},
+        "queryParams": {
+          "channelId": "UC-SZBwJvvAszAFjCL_LUxdg",
+          "maxResults": "50",
+          "part": "snippet",
+          "type": "video"
+        },
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "item",
+      "path": "items"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "Video ID",
+        "path": "id.videoId"
+      },
+      {
+        "type": "JSON",
+        "header": "Video ID 2",
+        "path": "id.videoId"
+      },
+      {
+        "type": "JSON",
+        "header": "Video URL",
+        "path": "id.videoId"
+      },
+      {
+        "type": "JSON",
+        "header": "Name",
+        "path": "snippet.title"
+      },
+      {
+        "type": "JSON",
+        "header": "Description",
+        "path": "snippet.description"
+      },
+      {
+        "type": "JSON",
+        "header": "Thumbnail URL",
+        "path": "snippet.thumbnails.default.url"
+      },
+      {
+        "type": "JSON",
+        "header": "Published At",
+        "path": "snippet.publishedAt"
+      },
+      {
+        "type": "JSON",
+        "header": "Channel ID",
+        "path": "snippet.channelId"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Name",
+            "Description"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\u0026#39;",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "\u0027"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Video ID 2",
+            "Video URL"
+          ]
+        },
+        "plugin": "youtube_createUrl",
+        "function": "createUrl"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Name",
+            "Description"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\u0026amp;",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "\u0026"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Name",
+            "Description"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\u0026quot;",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "\""
+      }
+    },
+    {
+      "formatDates": {
+        "inputHeaders": {
+          "headers": [
+            "Published At"
+          ]
+        },
+        "inputFormat": "yyyy-MM-dd\u0027T\u0027kk:mm:ssX"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "youtube_channelID",
+      "header": "Channel ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "videos",
+      "header": "Video ID 2",
+      "subfieldPath": [
+        {
+          "index": 0
+        },
+        {
+          "name": "video"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "youtube_thumbnailPhoto",
+      "header": "Thumbnail URL",
+      "subfieldPath": [
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "entityId",
+      "header": "Video ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "youtube_videoURL",
+      "header": "Video URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "youtube_publishedAt",
+      "header": "Published At",
+      "subfieldPath": []
+    }
+  ],
+  "scheduleConfig": {
+    "customSchedule": {
+      "timeZone": "America/New_York",
+      "startDate": "2021-09-14",
+      "startTime": "00:00",
+      "frequencyType": "DAILY"
+    },
+    "runMode": "COMPREHENSIVE"
+  }
+}

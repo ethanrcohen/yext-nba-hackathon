@@ -1,0 +1,60 @@
+{
+  "$id": "retreat-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_teacher": [
+      "instructor-2",
+      "instructor-4"
+    ],
+    "commonAreasEnhancedCleaning": "YES",
+    "name": "Rauris, AT in Summer 2022",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 162,
+          "thumbnails": [
+            {
+              "height": 162,
+              "url": "https://a.mktgcdn.com/p/bAT-O67l6r-X5-B6UCbclrZEb4d7qMuWKuxgvoIjpU4/312x162.jpg",
+              "width": 312
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/bAT-O67l6r-X5-B6UCbclrZEb4d7qMuWKuxgvoIjpU4/312x162.jpg",
+          "width": 312
+        }
+      },
+      {
+        "image": {
+          "height": 194,
+          "thumbnails": [
+            {
+              "height": 194,
+              "url": "https://a.mktgcdn.com/p/dnehxKRY4AvpB0cHtj12cgH468o-SUY22P5zM64J8OI/259x194.jpg",
+              "width": 259
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/dnehxKRY4AvpB0cHtj12cgH468o-SUY22P5zM64J8OI/259x194.jpg",
+          "width": 259
+        }
+      },
+      {
+        "image": {
+          "height": 158,
+          "thumbnails": [
+            {
+              "height": 158,
+              "url": "https://a.mktgcdn.com/p/EMLkjZPmHbpIEqW1P6MFEYCY22Cgu6co8q7L1FQmy4w/318x158.jpg",
+              "width": 318
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/EMLkjZPmHbpIEqW1P6MFEYCY22Cgu6co8q7L1FQmy4w/318x158.jpg",
+          "width": 318
+        }
+      }
+    ],
+    "richTextDescription": "Join us on our first amazing 5\\-night retreat in the mountains of Austria. We have been wanting to do a retreat together for a while, but Covid had other plans…until now! We found a dreamy property right in the Tirol moutains. From the house you can easily walk into town to shop, to check out local art/pottery and browse the local markets! The house is also located a 10 minute drive from so many hikes. If you are renting a car, there is parking available at the property as well. We recommend renting a car so you can explore all that this party of Austria has to offer.\n\n\nThe house itself is equipped with wifi and air conditioning to make our stay as comfy as possible. There is plenty of outdoor space where we will have our practices and a wonderful dining room where we will have breakfast every morning. The rooftop has an eight person hot tub overlooking the mountains. There are little nooks all over the house both inside and outside set up to read, to nap, to have a bevvie and just chill. We will be partnering with a local chef for our meals to get all the local flavor (quite literally) that we can get! Please note that we are asking everyone participating on this retreat to be fully vaccinated. We are still living in the Covid landscape and the health and safety of everyone involved is our utmost priority. You will need to send either Henry or myself a copy of your vaccination card.\n\n\nHenry has 10 years of experience teaching yoga and is a master at wheel pose. Ask him about it. Dana loves flamingos and her favorite pose is flamingo pose. Ask her about it."
+  },
+  "entityType": "ce_retreats",
+  "labels": []
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "5SNAoAyJzoacsXtoxRVkjD",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/5SNAoAyJzoacsXtoxRVkjD",
+    "name": "The Piano Guys – The Piano Guys",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b273891ce82d71616ca9490f597eab67616d0000b2738aac766e4a74b013abd69ee2ab67616d0000b273f922688cc1cf30bbcdf3ed63ab67616d0000b273fce4efbd8537db577aa683d7",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/OjIY7DqnUl__blXo1o67obPZns12TM2-MToIc1uqt94/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OjIY7DqnUl__blXo1o67obPZns12TM2-MToIc1uqt94/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OjIY7DqnUl__blXo1o67obPZns12TM2-MToIc1uqt94/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OjIY7DqnUl__blXo1o67obPZns12TM2-MToIc1uqt94/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OjIY7DqnUl__blXo1o67obPZns12TM2-MToIc1uqt94/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b273891ce82d71616ca9490f597eab67616d0000b2738aac766e4a74b013abd69ee2ab67616d0000b273f922688cc1cf30bbcdf3ed63ab67616d0000b273fce4efbd8537db577aa683d7",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/vWdANjHflTGBuCL6X_-807RDuXAJ4xe2T9tZwMMfjPg/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vWdANjHflTGBuCL6X_-807RDuXAJ4xe2T9tZwMMfjPg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vWdANjHflTGBuCL6X_-807RDuXAJ4xe2T9tZwMMfjPg/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b273891ce82d71616ca9490f597eab67616d0000b2738aac766e4a74b013abd69ee2ab67616d0000b273f922688cc1cf30bbcdf3ed63ab67616d0000b273fce4efbd8537db577aa683d7",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/uH-8fBNDpvumPihcRuDRCcihbg3N4RmtdsExEuGrv7M/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uH-8fBNDpvumPihcRuDRCcihbg3N4RmtdsExEuGrv7M/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

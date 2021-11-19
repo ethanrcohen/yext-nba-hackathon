@@ -1,0 +1,48 @@
+{
+  "$id": "instructor-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_aboutMe": "I weave together meditation, breathwork + movement with a sense of lightness, laughter + ease. My classes are intelligent, fluid, dynamic, and physically demanding.",
+    "c_birthday": "2022-03-02",
+    "c_favePlaylistRn": [
+      "5F1H6CEJQrc8GrcntOFWGW"
+    ],
+    "c_goToKaraokeSong": "Closing Time",
+    "c_hometown": "Charleston, SC",
+    "c_inspirationalQuote": "\"You miss 100% of the shots you don\u0027t take.\"",
+    "c_instagram": "https://www.instagram.com/movewithfez",
+    "c_pronouns": "he/him",
+    "c_specialTalent": "I can eat 10 oreos at once.",
+    "c_training": "5 years of studying yoga with world renowned teachers in Asia, Europe, and North America.",
+    "linkedLocation": "location-3",
+    "logo": {
+      "image": {
+        "height": 512,
+        "sourceUrl": "https://ca.slack-edge.com/ET8ARFBFY-W0105MF30M9-444dc2befe4a-512",
+        "thumbnails": [
+          {
+            "height": 512,
+            "url": "https://a.mktgcdn.com/p/fPfY7f7Cq7j6w5UHCy1aWsJJ--MBMd-5KuwvFpVpW7o/512x512.jpg",
+            "width": 512
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/fPfY7f7Cq7j6w5UHCy1aWsJJ--MBMd-5KuwvFpVpW7o/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/fPfY7f7Cq7j6w5UHCy1aWsJJ--MBMd-5KuwvFpVpW7o/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/fPfY7f7Cq7j6w5UHCy1aWsJJ--MBMd-5KuwvFpVpW7o/512x512.jpg",
+        "width": 512
+      }
+    },
+    "name": "Ethan Cohen"
+  },
+  "entityType": "ce_instructors",
+  "labels": []
+}

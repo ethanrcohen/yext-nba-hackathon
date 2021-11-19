@@ -1,0 +1,246 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "hackathon",
+  "name": "Hackathon",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "class_type": {
+      "entityTypes": [
+        "ce_classType"
+      ],
+      "name": "Class Type",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "name": "Events",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "instructors": {
+      "entityTypes": [
+        "ce_instructors"
+      ],
+      "name": "Instructors",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "locations": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "pricing": {
+      "entityTypes": [
+        "ce_pricing"
+      ],
+      "name": "Pricing",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "products": {
+      "entityTypes": [
+        "product"
+      ],
+      "name": "Products",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "retreats": {
+      "entityTypes": [
+        "ce_retreats"
+      ],
+      "name": "Retreats",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "spotify_playlists": {
+      "entityTypes": [
+        "ce_spotifyPlaylist"
+      ],
+      "name": "Spotify Playlists",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "videos": {
+      "entityTypes": [
+        "youtube_video"
+      ],
+      "name": "Videos",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "workshops_and_trainings": {
+      "entityTypes": [
+        "ce_workshopsAndTrainings"
+      ],
+      "name": "Workshops and Trainings",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "[[name]]"
+    ],
+    "verticalPrompts": {
+      "class_type": [
+        "[[name]]"
+      ],
+      "events": [
+        "Events in [[address.city]]"
+      ],
+      "faqs": [
+        "[[name]]"
+      ],
+      "instructors": [
+        "[[name]]"
+      ],
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]"
+      ],
+      "pricing": [
+        "[[name]]"
+      ],
+      "products": [
+        "[[name]]"
+      ],
+      "retreats": [
+        "[[name]]"
+      ],
+      "spotify_playlists": [
+        "[[name]]"
+      ],
+      "videos": [
+        "[[name]]"
+      ],
+      "workshops_and_trainings": [
+        "[[name]]"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "23vMm3su0CJH7MlYGnaRvB",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/23vMm3su0CJH7MlYGnaRvB",
+    "name": "One Direction – Midnight Memories (Deluxe)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/j88qrTr9FHWmX-uLla79S78Ml-fjFssC7btTF5PGUsM/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/j88qrTr9FHWmX-uLla79S78Ml-fjFssC7btTF5PGUsM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/j88qrTr9FHWmX-uLla79S78Ml-fjFssC7btTF5PGUsM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/j88qrTr9FHWmX-uLla79S78Ml-fjFssC7btTF5PGUsM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/j88qrTr9FHWmX-uLla79S78Ml-fjFssC7btTF5PGUsM/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

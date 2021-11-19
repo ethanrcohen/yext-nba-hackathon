@@ -1,0 +1,34 @@
+{
+  "$id": "VqSaESpk7yE",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "The last mini season class is here! Welcome to Winter - the season of introspection and rest. Things will be a slower and more chill in this one, so grab a block ...",
+    "name": "17 min. yoga short feat. winter",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dVqSaESpk7yE"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-05-24",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/VqSaESpk7yE/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/OPJteQM4thlAAFK2MGbQGNWLq2j0Ntpm4YeBofQlX6Q/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/OPJteQM4thlAAFK2MGbQGNWLq2j0Ntpm4YeBofQlX6Q/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dVqSaESpk7yE"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

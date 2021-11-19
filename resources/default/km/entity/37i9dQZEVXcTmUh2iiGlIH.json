@@ -1,0 +1,35 @@
+{
+  "$id": "37i9dQZEVXcTmUh2iiGlIH",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZEVXcTmUh2iiGlIH",
+    "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+    "name": "Discover Weekly",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 320,
+          "sourceUrl": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/Sm2UlZKKSL-M4vlOf9awczPYQUU4H3NUcA4ukPlaD7weeD28ZaTrplvXQSPcandO7_CTIIANt7Q3_JwhPcXGN17LSZZc_k7eRZc-NXsVOCB2D3eqzlepxSFCEjWc0DDyD_P_VExFfp34QD8y9TWkiRwmnfn2i-SaER7CAnt8J_YXDCz-qI3lQaYjVT9sPQzw3obHqh84iqNxd-Krbe9WTdH5xix3Vz_mTOAu_wIWlzMekuPyXHMrB5gqPpzv-M2l48orMaz0IkpqkJ6PIep82tMsJHlFNT1B24OkaDJw4iKeGMWPexy5zOZIbabGQMjVXzPoXqI0SUXuKU9kAr-jYyuZMhob8HgCJiD8ixmveAwFkUIUx8GaL82o6fWdszfh/ODI6NzQ6MzFUMTAtMjEtMQ\u003d\u003d",
+          "thumbnails": [
+            {
+              "height": 320,
+              "url": "http://a.mktgcdn.com/p/9-Jf4yEI3b6gU6Hbg1oXEb32oW2ZZnKD6I19JybxNrs/320x320.jpg",
+              "width": 320
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9-Jf4yEI3b6gU6Hbg1oXEb32oW2ZZnKD6I19JybxNrs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9-Jf4yEI3b6gU6Hbg1oXEb32oW2ZZnKD6I19JybxNrs/320x320.jpg",
+          "width": 320
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

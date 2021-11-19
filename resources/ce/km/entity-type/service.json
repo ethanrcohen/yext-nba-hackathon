@@ -1,0 +1,66 @@
+{
+  "$id": "ce_service",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Service",
+  "enabled": false,
+  "field": [
+    {
+      "id": "landingPageUrl",
+      "required": false
+    },
+    {
+      "id": "description",
+      "required": false
+    },
+    {
+      "id": "name",
+      "required": true
+    },
+    {
+      "id": "c_activeInAnswers",
+      "required": false
+    },
+    {
+      "id": "c_associatedLocations",
+      "required": false
+    },
+    {
+      "id": "c_associatedProfessionals",
+      "required": false
+    },
+    {
+      "id": "c_photo",
+      "required": false
+    },
+    {
+      "id": "c_primaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_secondaryCTA",
+      "required": false
+    },
+    {
+      "id": "c_serviceCategory",
+      "required": false
+    },
+    {
+      "id": "folder",
+      "required": false
+    },
+    {
+      "id": "keywords",
+      "required": false
+    },
+    {
+      "id": "labels",
+      "required": false
+    },
+    {
+      "id": "entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Services"
+}

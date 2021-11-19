@@ -1,0 +1,12 @@
+{
+  "$id": "faq-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Well, let me tell you! People who run frequently use different muscles more often than those who don\u0027t. In Yoga for Runners, we target those muscle groups with poses that help prepare our bodies to run again. Even if you don\u0027t run, you will still have a fun time and move your body so try a class if you\u0027re curious.",
+    "name": "What is the difference between Yoga for Runners and Yoga Flow?",
+    "question": "What is the difference between Yoga for Runners and Yoga Flow?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

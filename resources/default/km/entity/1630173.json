@@ -1,0 +1,53 @@
+{
+  "$id": "1630173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_activeFrom1": "2020",
+    "c_activeUntil1": "2021",
+    "c_draftNumber": "20",
+    "c_draftRound": "1",
+    "c_greatest75": false,
+    "c_height": "6-8",
+    "c_homeCountry": "Nigeria",
+    "c_jerseyNumber": "5",
+    "c_photo": {
+      "height": 760,
+      "sourceUrl": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png",
+      "thumbnails": [
+        {
+          "height": 760,
+          "url": "https://a.mktgcdn.com/p/wbq8jdCSnYI1AKd9rQBpJxwBQ3nv_l2DeSwWcIRmtEM/1040x760.png",
+          "width": 1040
+        },
+        {
+          "height": 452,
+          "url": "https://a.mktgcdn.com/p/wbq8jdCSnYI1AKd9rQBpJxwBQ3nv_l2DeSwWcIRmtEM/619x452.png",
+          "width": 619
+        },
+        {
+          "height": 438,
+          "url": "https://a.mktgcdn.com/p/wbq8jdCSnYI1AKd9rQBpJxwBQ3nv_l2DeSwWcIRmtEM/600x438.png",
+          "width": 600
+        },
+        {
+          "height": 143,
+          "url": "https://a.mktgcdn.com/p/wbq8jdCSnYI1AKd9rQBpJxwBQ3nv_l2DeSwWcIRmtEM/196x143.png",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/wbq8jdCSnYI1AKd9rQBpJxwBQ3nv_l2DeSwWcIRmtEM/1040x760.png",
+      "width": 1040
+    },
+    "c_position": "Forward",
+    "c_school": "Memphis",
+    "c_seasonsPlayed": "1",
+    "c_teamName": "Raptors",
+    "c_weight": "225",
+    "firstName": "Precious",
+    "lastName": "Achiuwa",
+    "name": "Precious Achiuwa"
+  },
+  "entityType": "ce_nBAPlayer",
+  "labels": []
+}

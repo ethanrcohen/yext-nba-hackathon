@@ -1,0 +1,34 @@
+{
+  "$id": "Li8juvpjOSk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This mini class is of all my fave things to do in a yoga class! enough said. It\u0027s a super fun one! :) For more info on upcoming events and classes, check out my ...",
+    "name": "19 min. yoga short feat. all my faves",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dLi8juvpjOSk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-01",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/Li8juvpjOSk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/QekUqgMlgy3U4XTPpo66NQ50272ptVreMsFPMCneB_s/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/QekUqgMlgy3U4XTPpo66NQ50272ptVreMsFPMCneB_s/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dLi8juvpjOSk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DX5KpP2LN299J",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DX5KpP2LN299J",
+    "description": "The essential tracks, all in one playlist.",
+    "name": "This Is Taylor Swift",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f0000000398bf3a4db76317b0c50f3b7c",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/l3Y5xgZXpwLzEPVtpaTLsMpVQ_l9X9rJTsuRJ9JieNc/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l3Y5xgZXpwLzEPVtpaTLsMpVQ_l9X9rJTsuRJ9JieNc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l3Y5xgZXpwLzEPVtpaTLsMpVQ_l9X9rJTsuRJ9JieNc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l3Y5xgZXpwLzEPVtpaTLsMpVQ_l9X9rJTsuRJ9JieNc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l3Y5xgZXpwLzEPVtpaTLsMpVQ_l9X9rJTsuRJ9JieNc/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

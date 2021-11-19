@@ -1,0 +1,11 @@
+{
+  "$id": "c_jerseyNumber",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Jersey Number",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
+}

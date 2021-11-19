@@ -1,0 +1,79 @@
+{
+  "$id": "1k2J3f4zXatTruPinUOuGU",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Susi E.",
+    "c_playlistURL": "https://open.spotify.com/playlist/1k2J3f4zXatTruPinUOuGU",
+    "name": "special susi armin van buuren",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b273188c8257c869c9672ce3d802ab67616d0000b27395d87db330c27032e835def3ab67616d0000b273a6a0f0cdbf4c47b850ec62f9ab67616d0000b273a7354aa08bc3e76f416f194e",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/sLbmTeZIzpLpDeeskCwVsKEXAs5zHrhaFKeveTT67bU/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/sLbmTeZIzpLpDeeskCwVsKEXAs5zHrhaFKeveTT67bU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sLbmTeZIzpLpDeeskCwVsKEXAs5zHrhaFKeveTT67bU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/sLbmTeZIzpLpDeeskCwVsKEXAs5zHrhaFKeveTT67bU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sLbmTeZIzpLpDeeskCwVsKEXAs5zHrhaFKeveTT67bU/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b273188c8257c869c9672ce3d802ab67616d0000b27395d87db330c27032e835def3ab67616d0000b273a6a0f0cdbf4c47b850ec62f9ab67616d0000b273a7354aa08bc3e76f416f194e",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/w7119yBadMkBs6e0fc9Y3ieB6CgS0tdwdp8BEvjMSi0/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/w7119yBadMkBs6e0fc9Y3ieB6CgS0tdwdp8BEvjMSi0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/w7119yBadMkBs6e0fc9Y3ieB6CgS0tdwdp8BEvjMSi0/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b273188c8257c869c9672ce3d802ab67616d0000b27395d87db330c27032e835def3ab67616d0000b273a6a0f0cdbf4c47b850ec62f9ab67616d0000b273a7354aa08bc3e76f416f194e",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/_5S6GiN9Tc9ElEs7_dysIv8-7vFS6tkpVF0zkKA58qU/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5S6GiN9Tc9ElEs7_dysIv8-7vFS6tkpVF0zkKA58qU/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

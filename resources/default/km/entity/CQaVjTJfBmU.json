@@ -1,0 +1,34 @@
+{
+  "$id": "CQaVjTJfBmU",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This week\u0027s yoga short uses something we have in all our homes! A wall! We get really into our legs and hips in this v short class and they will feel like new!",
+    "name": "14 min. yoga short feat. a wall",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dCQaVjTJfBmU"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-14",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/CQaVjTJfBmU/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/nDuYJW78wbqCV21UZzw4JOx9IEl4-snVddasJ0GzgRQ/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/nDuYJW78wbqCV21UZzw4JOx9IEl4-snVddasJ0GzgRQ/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dCQaVjTJfBmU"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

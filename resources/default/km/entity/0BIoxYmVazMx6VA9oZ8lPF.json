@@ -1,0 +1,44 @@
+{
+  "$id": "0BIoxYmVazMx6VA9oZ8lPF",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/0BIoxYmVazMx6VA9oZ8lPF",
+    "name": "Beyoncé – 4",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 636,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd",
+          "thumbnails": [
+            {
+              "height": 636,
+              "url": "http://a.mktgcdn.com/p/ri-rWWTdKFypIdA7ow_bmGYyPHJ1qR1Fhk84s0VF7w4/640x636.jpg",
+              "width": 640
+            },
+            {
+              "height": 615,
+              "url": "http://a.mktgcdn.com/p/ri-rWWTdKFypIdA7ow_bmGYyPHJ1qR1Fhk84s0VF7w4/619x615.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ri-rWWTdKFypIdA7ow_bmGYyPHJ1qR1Fhk84s0VF7w4/453x450.jpg",
+              "width": 453
+            },
+            {
+              "height": 195,
+              "url": "http://a.mktgcdn.com/p/ri-rWWTdKFypIdA7ow_bmGYyPHJ1qR1Fhk84s0VF7w4/196x195.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ri-rWWTdKFypIdA7ow_bmGYyPHJ1qR1Fhk84s0VF7w4/640x636.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

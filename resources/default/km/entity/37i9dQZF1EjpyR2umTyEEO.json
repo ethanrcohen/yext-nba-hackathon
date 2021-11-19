@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1EjpyR2umTyEEO",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1EjpyR2umTyEEO",
+    "description": "The songs you loved most this year, all wrapped up.",
+    "name": "Your Top Songs 2018",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://lineup-images.scdn.co/your-top-songs-2018_LARGE-en.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/R5V_rhtL7SzeORe1eq9xBm0NyoDsscPmszPUAI5Hjho/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/R5V_rhtL7SzeORe1eq9xBm0NyoDsscPmszPUAI5Hjho/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/R5V_rhtL7SzeORe1eq9xBm0NyoDsscPmszPUAI5Hjho/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/R5V_rhtL7SzeORe1eq9xBm0NyoDsscPmszPUAI5Hjho/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/R5V_rhtL7SzeORe1eq9xBm0NyoDsscPmszPUAI5Hjho/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

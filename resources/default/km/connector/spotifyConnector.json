@@ -1,0 +1,118 @@
+{
+  "$id": "spotifyConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v2",
+  "displayName": "Spotify Connector",
+  "entityType": "ce__spotifyPlaylist",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://api.spotify.com/v1/users/1251122408/playlists",
+        "authentication": {
+          "bearerToken": "${{km/connector.spotifyConnector.api_bearer_token}}"
+        },
+        "paginationControl": {
+          "cursorPagination": {
+            "pageKey": "next",
+            "cursor": "next",
+            "cursorType": "FULL_URL",
+            "detectCursorInHeader": false
+          }
+        },
+        "headers": {},
+        "queryParams": {},
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "items"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "Playlist ID",
+        "path": "id"
+      },
+      {
+        "type": "JSON",
+        "header": "Playlist URL",
+        "path": "external_urls.spotify"
+      },
+      {
+        "type": "JSON",
+        "header": "Images",
+        "path": "images[*].url"
+      },
+      {
+        "type": "JSON",
+        "header": "Playlist Owner",
+        "path": "owner.display_name"
+      },
+      {
+        "type": "JSON",
+        "header": "Is Collaborative",
+        "path": "collaborative"
+      },
+      {
+        "type": "JSON",
+        "header": "Playlist Name",
+        "path": "name"
+      },
+      {
+        "type": "JSON",
+        "header": "Description",
+        "path": "description"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_playlistOwner",
+      "header": "Playlist Owner",
+      "subfieldPath": []
+    },
+    {
+      "field": "photoGallery",
+      "header": "Images",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "c_playlistURL",
+      "header": "Playlist URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Playlist Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "Playlist ID",
+      "subfieldPath": []
+    }
+  ],
+  "scheduleConfig": {
+    "customSchedule": {
+      "timeZone": "Pacific/Pago_Pago",
+      "startDate": "2021-10-23",
+      "startTime": "20:00",
+      "frequencyType": "DAILY"
+    },
+    "runMode": "COMPREHENSIVE"
+  }
+}

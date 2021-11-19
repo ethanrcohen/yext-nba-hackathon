@@ -1,0 +1,79 @@
+{
+  "$id": "77aVI9D6rsglNjulk40E1u",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/77aVI9D6rsglNjulk40E1u",
+    "name": "thesis",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2730eecbd7c3e32b0d0cb27a431ab67616d0000b2732dada5d0d4303176fc2b819dab67616d0000b27391113e5a10d92959ee12e3e6ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/DJImzTF1Nq01JKJLQ2liitw41lLMECl5kG1CJb6vcgA/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DJImzTF1Nq01JKJLQ2liitw41lLMECl5kG1CJb6vcgA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DJImzTF1Nq01JKJLQ2liitw41lLMECl5kG1CJb6vcgA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DJImzTF1Nq01JKJLQ2liitw41lLMECl5kG1CJb6vcgA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DJImzTF1Nq01JKJLQ2liitw41lLMECl5kG1CJb6vcgA/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2730eecbd7c3e32b0d0cb27a431ab67616d0000b2732dada5d0d4303176fc2b819dab67616d0000b27391113e5a10d92959ee12e3e6ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/HsoqkXFJDhilVZjZJBlsfv3kkkN8_B5ilQlRwBtEOuI/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HsoqkXFJDhilVZjZJBlsfv3kkkN8_B5ilQlRwBtEOuI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HsoqkXFJDhilVZjZJBlsfv3kkkN8_B5ilQlRwBtEOuI/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2730eecbd7c3e32b0d0cb27a431ab67616d0000b2732dada5d0d4303176fc2b819dab67616d0000b27391113e5a10d92959ee12e3e6ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/ndYgD5Fl0ToAZ-6deytB2gMdYtCCNh0MMXOsXLeMM9A/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ndYgD5Fl0ToAZ-6deytB2gMdYtCCNh0MMXOsXLeMM9A/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "7lr3r7NANwSJW91KCpYpKs",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/7lr3r7NANwSJW91KCpYpKs",
+    "name": "Take Me Home: Yearbook Edition",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2734e31e0d38b89b8fb239d4fbfab67616d0000b2736d035b3d8135797f9bfcf987ab67616d0000b273b3bcb9d8bebc313e9f670f4eab67616d0000b273d68f225d0379a5eb60bcb18e",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/8r06ZZb6H0_M9BlgHjB9xUfwZbd9kD02GtCzgUrAv0Q/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8r06ZZb6H0_M9BlgHjB9xUfwZbd9kD02GtCzgUrAv0Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8r06ZZb6H0_M9BlgHjB9xUfwZbd9kD02GtCzgUrAv0Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8r06ZZb6H0_M9BlgHjB9xUfwZbd9kD02GtCzgUrAv0Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8r06ZZb6H0_M9BlgHjB9xUfwZbd9kD02GtCzgUrAv0Q/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2734e31e0d38b89b8fb239d4fbfab67616d0000b2736d035b3d8135797f9bfcf987ab67616d0000b273b3bcb9d8bebc313e9f670f4eab67616d0000b273d68f225d0379a5eb60bcb18e",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/q0-PBriO07W_6ITHJ4T7tfVGd4Dw9svtl8QtH8kvHiE/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/q0-PBriO07W_6ITHJ4T7tfVGd4Dw9svtl8QtH8kvHiE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/q0-PBriO07W_6ITHJ4T7tfVGd4Dw9svtl8QtH8kvHiE/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2734e31e0d38b89b8fb239d4fbfab67616d0000b2736d035b3d8135797f9bfcf987ab67616d0000b273b3bcb9d8bebc313e9f670f4eab67616d0000b273d68f225d0379a5eb60bcb18e",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/9RvUqxfb7qAZfpr5q_uVH_c6QbRnODu0ifr6F15_Ifw/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9RvUqxfb7qAZfpr5q_uVH_c6QbRnODu0ifr6F15_Ifw/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

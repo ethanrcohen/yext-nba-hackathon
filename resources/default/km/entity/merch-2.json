@@ -1,0 +1,33 @@
+{
+  "$id": "merch-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "gtin": "1234",
+    "name": "yoga shorts",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 251,
+          "thumbnails": [
+            {
+              "height": 251,
+              "url": "https://a.mktgcdn.com/p/BNgQtTZKf8vPAwzMJ9VyAo3I4OKUbGZ4ZFjDGGU9xYU/201x251.jpg",
+              "width": 201
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/BNgQtTZKf8vPAwzMJ9VyAo3I4OKUbGZ4ZFjDGGU9xYU/201x251.jpg",
+          "width": 201
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "25"
+    },
+    "richTextDescription": "In honor of weekly #yogashorts available on YouTube, we now have some yoga shorts you can wear to go with them! Enjoy yoga shorting in your yoga shorts!",
+    "sku": "123"
+  },
+  "entityType": "product",
+  "labels": []
+}

@@ -1,0 +1,54 @@
+{
+  "$id": "ce_retreats",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Retreats",
+  "enabled": true,
+  "field": [
+    {
+      "id": "commonAreasEnhancedCleaning",
+      "required": false
+    },
+    {
+      "id": "covid19InformationUrl",
+      "required": false
+    },
+    {
+      "id": "masksRequired",
+      "required": false
+    },
+    {
+      "id": "richTextDescription",
+      "required": false
+    },
+    {
+      "id": "linkedLocation",
+      "required": false
+    },
+    {
+      "id": "name",
+      "required": true
+    },
+    {
+      "id": "c_teacher",
+      "required": false
+    },
+    {
+      "id": "folder",
+      "required": false
+    },
+    {
+      "id": "photoGallery",
+      "required": false
+    },
+    {
+      "id": "labels",
+      "required": false
+    },
+    {
+      "id": "entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": ""
+}

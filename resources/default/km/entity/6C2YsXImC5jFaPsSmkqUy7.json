@@ -1,0 +1,12 @@
+{
+  "$id": "6C2YsXImC5jFaPsSmkqUy7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/6C2YsXImC5jFaPsSmkqUy7",
+    "name": "PUBarmup"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,91 @@
+{
+  "$id": "Loc1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "hours": {
+      "friday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+17574070511",
+    "name": "Yext",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "displayUrl": "https://www.yext.com",
+      "preferDisplayUrl": false,
+      "url": "https://www.yext.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

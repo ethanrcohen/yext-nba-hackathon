@@ -1,0 +1,20 @@
+{
+  "$id": "c_location",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Location",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "location"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

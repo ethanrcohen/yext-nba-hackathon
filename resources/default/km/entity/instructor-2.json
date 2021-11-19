@@ -1,0 +1,52 @@
+{
+  "$id": "instructor-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_aboutMe": "My classes are intelligently sequenced focusing heavily on alignment principals and functional movement that promote longevity and functionality in the body.",
+    "c_birthday": "2022-05-28",
+    "c_favePlaylistRn": [
+      "1CKA4w8TchzM0l0NytDk92"
+    ],
+    "c_goToKaraokeSong": "Don\u0027t Stop Believing",
+    "c_hometown": "Pelham, NY",
+    "c_inspirationalQuote": "\"Be wise today so you don\u0027t cry tomorrow.\"",
+    "c_instagram": "https://www.instagram.com/movewithfez",
+    "c_pronouns": "she/her",
+    "c_specialTalent": "I can juggle with one hand.",
+    "c_training": "Has travelled around the world learning Katonah Yoga and Hatha Yoga theories. She\u0027s done trainings in Germany, Switzerland, and even New York City.",
+    "linkedLocation": "location-2",
+    "logo": {
+      "image": {
+        "height": 1310,
+        "thumbnails": [
+          {
+            "height": 1310,
+            "url": "https://a.mktgcdn.com/p/CefQD5QApyBY8ljiIn3N4VhEcMy5hJz8pP_Q7FeaOIg/1310x1310.png",
+            "width": 1310
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p/CefQD5QApyBY8ljiIn3N4VhEcMy5hJz8pP_Q7FeaOIg/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/CefQD5QApyBY8ljiIn3N4VhEcMy5hJz8pP_Q7FeaOIg/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/CefQD5QApyBY8ljiIn3N4VhEcMy5hJz8pP_Q7FeaOIg/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/CefQD5QApyBY8ljiIn3N4VhEcMy5hJz8pP_Q7FeaOIg/1310x1310.png",
+        "width": 1310
+      }
+    },
+    "name": "Dana Fesjian"
+  },
+  "entityType": "ce_instructors",
+  "labels": []
+}

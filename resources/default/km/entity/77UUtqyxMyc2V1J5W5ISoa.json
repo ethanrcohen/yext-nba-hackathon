@@ -1,0 +1,39 @@
+{
+  "$id": "77UUtqyxMyc2V1J5W5ISoa",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Osvaldo Lomelí",
+    "c_playlistURL": "https://open.spotify.com/playlist/77UUtqyxMyc2V1J5W5ISoa",
+    "name": "My best of DEEP HOUSE 2020",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 622,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebb096ecf601ff5cc01552d8ff4",
+          "thumbnails": [
+            {
+              "height": 622,
+              "url": "http://a.mktgcdn.com/p/CYZ3IBWQqZOiCWDTDg14HOb0mQkeLE0df7bio8QDb1k/480x622.jpg",
+              "width": 480
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CYZ3IBWQqZOiCWDTDg14HOb0mQkeLE0df7bio8QDb1k/347x450.jpg",
+              "width": 347
+            },
+            {
+              "height": 254,
+              "url": "http://a.mktgcdn.com/p/CYZ3IBWQqZOiCWDTDg14HOb0mQkeLE0df7bio8QDb1k/196x254.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CYZ3IBWQqZOiCWDTDg14HOb0mQkeLE0df7bio8QDb1k/480x622.jpg",
+          "width": 480
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

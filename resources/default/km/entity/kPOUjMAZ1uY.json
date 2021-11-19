@@ -1,0 +1,34 @@
+{
+  "$id": "kPOUjMAZ1uY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "It\u0027s always good to have something to move through or towards. In this class, we use our bodies to create a frame to go through, so grab 2 blocks and a blanket ...",
+    "name": "fez flow - Moving Thru Ur Frame",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dkPOUjMAZ1uY"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/kPOUjMAZ1uY/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/DQGX_N9f3hAE_G_P2t-HnCa7t-kzS5KkwyLgkSCALF0/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/DQGX_N9f3hAE_G_P2t-HnCa7t-kzS5KkwyLgkSCALF0/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dkPOUjMAZ1uY"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

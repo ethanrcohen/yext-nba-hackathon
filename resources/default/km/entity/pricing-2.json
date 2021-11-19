@@ -1,0 +1,22 @@
+{
+  "$id": "pricing-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_classType": [
+      "classType-1",
+      "classType-3",
+      "classType-2"
+    ],
+    "c_numberOfCredits": "10",
+    "c_validity": "Valid for 6 Months",
+    "name": "10 Credits",
+    "price": {
+      "currencyCode": "USD",
+      "value": "180"
+    },
+    "richTextDescription": "Not sure how often you want to come? Buy this class pack to use as you please!"
+  },
+  "entityType": "ce_pricing",
+  "labels": []
+}

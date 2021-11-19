@@ -1,0 +1,79 @@
+{
+  "$id": "7zunOhv0RRQBQ2cBY3GWhz",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/7zunOhv0RRQBQ2cBY3GWhz",
+    "name": "yoga 2/6 - winter vibes",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b273c43edd2cf01edf73bf0b97a3ab67616d0000b273d80427bbe8360230792814e1ab67616d0000b273e212eb02a751f94014423cb7ab67616d0000b273f0d2d584913068c295a46f22",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/YaU3RLvUJZdHgSIBF-szrl52X0uG_K2JbvuqrVo7mjo/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YaU3RLvUJZdHgSIBF-szrl52X0uG_K2JbvuqrVo7mjo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YaU3RLvUJZdHgSIBF-szrl52X0uG_K2JbvuqrVo7mjo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YaU3RLvUJZdHgSIBF-szrl52X0uG_K2JbvuqrVo7mjo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YaU3RLvUJZdHgSIBF-szrl52X0uG_K2JbvuqrVo7mjo/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b273c43edd2cf01edf73bf0b97a3ab67616d0000b273d80427bbe8360230792814e1ab67616d0000b273e212eb02a751f94014423cb7ab67616d0000b273f0d2d584913068c295a46f22",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/5dNHieo1i4SvyLMMlb4omkQpoTTzHqBDTWGSQ8TovOM/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/5dNHieo1i4SvyLMMlb4omkQpoTTzHqBDTWGSQ8TovOM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/5dNHieo1i4SvyLMMlb4omkQpoTTzHqBDTWGSQ8TovOM/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b273c43edd2cf01edf73bf0b97a3ab67616d0000b273d80427bbe8360230792814e1ab67616d0000b273e212eb02a751f94014423cb7ab67616d0000b273f0d2d584913068c295a46f22",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/PRASHLEwfiFliVZTFfNfMDeXf3hqAwQA_AgLo-P7hjY/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PRASHLEwfiFliVZTFfNfMDeXf3hqAwQA_AgLo-P7hjY/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

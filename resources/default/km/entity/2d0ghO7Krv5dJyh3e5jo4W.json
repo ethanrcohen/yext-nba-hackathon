@@ -1,0 +1,79 @@
+{
+  "$id": "2d0ghO7Krv5dJyh3e5jo4W",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/2d0ghO7Krv5dJyh3e5jo4W",
+    "name": "the holiday blend",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2730a8faf02e33a80f13070b58aab67616d0000b2730d7f3bea8540a3bdec324ecdab67616d0000b2737dd351028c93448824d07edbab67616d0000b2739bb9d6d8e7b6c83dc435e51c",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/fDzo3pcL5-gSyqkSlvKaiGH04pnXdHeD3iKHmCuPlYw/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fDzo3pcL5-gSyqkSlvKaiGH04pnXdHeD3iKHmCuPlYw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fDzo3pcL5-gSyqkSlvKaiGH04pnXdHeD3iKHmCuPlYw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fDzo3pcL5-gSyqkSlvKaiGH04pnXdHeD3iKHmCuPlYw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fDzo3pcL5-gSyqkSlvKaiGH04pnXdHeD3iKHmCuPlYw/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2730a8faf02e33a80f13070b58aab67616d0000b2730d7f3bea8540a3bdec324ecdab67616d0000b2737dd351028c93448824d07edbab67616d0000b2739bb9d6d8e7b6c83dc435e51c",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/SSCOaQ9-j_O4Zb3VNddvvfwoo13lqnZCKGWIhoeqKfU/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SSCOaQ9-j_O4Zb3VNddvvfwoo13lqnZCKGWIhoeqKfU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SSCOaQ9-j_O4Zb3VNddvvfwoo13lqnZCKGWIhoeqKfU/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2730a8faf02e33a80f13070b58aab67616d0000b2730d7f3bea8540a3bdec324ecdab67616d0000b2737dd351028c93448824d07edbab67616d0000b2739bb9d6d8e7b6c83dc435e51c",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/esXCd-2_7Lr9Q4EuBzJ8AHjbKEwF12H1S6DzcqbT2aA/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/esXCd-2_7Lr9Q4EuBzJ8AHjbKEwF12H1S6DzcqbT2aA/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

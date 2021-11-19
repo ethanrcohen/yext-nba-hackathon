@@ -1,0 +1,11 @@
+{
+  "$id": "c_draftNumber",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Draft Number",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "decimal"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "7t81HxBmyzGenRdRKOA65w",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/7t81HxBmyzGenRdRKOA65w",
+    "name": "#yogashorts season 2- restorative"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

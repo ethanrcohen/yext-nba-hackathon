@@ -1,0 +1,34 @@
+{
+  "$id": "Up3UetZiCco",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Twists are so fun and can get pretty weird sometimes. You might do some twists and moves in this class that you\u0027ve never done before and that\u0027s always great!",
+    "name": "fez flow - Some Weird Twists",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dUp3UetZiCco"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/Up3UetZiCco/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/4fXVrCGB7vJxDla4cWzS_FrYtY2aRTLUFuZpsB2DRpY/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/4fXVrCGB7vJxDla4cWzS_FrYtY2aRTLUFuZpsB2DRpY/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dUp3UetZiCco"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

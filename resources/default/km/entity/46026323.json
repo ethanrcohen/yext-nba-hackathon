@@ -1,0 +1,21 @@
+{
+  "$id": "46026323",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_classPrice": "0.00",
+    "c_eventDuration": "60",
+    "c_series": false,
+    "c_spotsAvailable": "46",
+    "c_totalSpots": "50",
+    "description": "Thanks for signing up for class! Check your email for a confirmation email, which includes the zoom link.",
+    "name": "Happy Hour @ The Neighborhood yoga flow",
+    "time": {
+      "end": "2021-04-18T12:00",
+      "start": "2021-04-18T11:00"
+    },
+    "timezone": "Europe/Berlin"
+  },
+  "entityType": "event",
+  "labels": []
+}

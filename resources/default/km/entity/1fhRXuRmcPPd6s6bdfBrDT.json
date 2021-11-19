@@ -1,0 +1,79 @@
+{
+  "$id": "1fhRXuRmcPPd6s6bdfBrDT",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Matt",
+    "c_playlistURL": "https://open.spotify.com/playlist/1fhRXuRmcPPd6s6bdfBrDT",
+    "name": "305 Throwin\u0027 it Back",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2732aa20611c7fb964a74ab01a6ab67616d0000b2735c34d7a87663652675cf3264ab67616d0000b273749e9bfa78277f30ad2c9a9cab67616d0000b273e7e9b85cc1f021ec12130d80",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/9VCx_Ix1kyHjz8twClKqyc5DB13JU1dF6zLUw0CVt1U/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9VCx_Ix1kyHjz8twClKqyc5DB13JU1dF6zLUw0CVt1U/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9VCx_Ix1kyHjz8twClKqyc5DB13JU1dF6zLUw0CVt1U/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9VCx_Ix1kyHjz8twClKqyc5DB13JU1dF6zLUw0CVt1U/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9VCx_Ix1kyHjz8twClKqyc5DB13JU1dF6zLUw0CVt1U/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2732aa20611c7fb964a74ab01a6ab67616d0000b2735c34d7a87663652675cf3264ab67616d0000b273749e9bfa78277f30ad2c9a9cab67616d0000b273e7e9b85cc1f021ec12130d80",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/Prl9UjzJH5Aceykq3v2yBL78N5wRxX3NV8B2Z1KMFAQ/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Prl9UjzJH5Aceykq3v2yBL78N5wRxX3NV8B2Z1KMFAQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Prl9UjzJH5Aceykq3v2yBL78N5wRxX3NV8B2Z1KMFAQ/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2732aa20611c7fb964a74ab01a6ab67616d0000b2735c34d7a87663652675cf3264ab67616d0000b273749e9bfa78277f30ad2c9a9cab67616d0000b273e7e9b85cc1f021ec12130d80",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/ZxkULPxkmJHC9VWpi1cxSq5bIlcCGoionZFjOEFcwqM/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZxkULPxkmJHC9VWpi1cxSq5bIlcCGoionZFjOEFcwqM/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

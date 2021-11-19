@@ -1,0 +1,34 @@
+{
+  "$id": "-LoI2vwuvz0",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "We do a lot of twists in this class. Get ready to move and feel energized. You can find the playlist for class here: ...",
+    "name": "fez flow - Twist + Shout!",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d-LoI2vwuvz0"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-31",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/-LoI2vwuvz0/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/e4sHe_jEoaHR4VpJsFjZD6EP14z5PIpkIJXhxq679cw/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/e4sHe_jEoaHR4VpJsFjZD6EP14z5PIpkIJXhxq679cw/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d-LoI2vwuvz0"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

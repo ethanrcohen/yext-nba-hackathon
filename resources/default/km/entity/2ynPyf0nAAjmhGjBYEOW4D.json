@@ -1,0 +1,12 @@
+{
+  "$id": "2ynPyf0nAAjmhGjBYEOW4D",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/2ynPyf0nAAjmhGjBYEOW4D",
+    "name": "eXp warmup"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

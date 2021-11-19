@@ -1,0 +1,60 @@
+{
+  "$id": "youtube_video",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "youtube_video",
+  "displayName": "Video",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "videos"
+        },
+        {
+          "id": "youtube_videoURL"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "youtube_thumbnailPhoto"
+        },
+        {
+          "id": "youtube_publishedAt"
+        },
+        {
+          "id": "youtube_channelID"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

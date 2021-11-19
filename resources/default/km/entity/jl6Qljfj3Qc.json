@@ -1,0 +1,34 @@
+{
+  "$id": "jl6Qljfj3Qc",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "For the next few #yogashorts we are moving through the seasons! First up - spring! The season of new beginnings and new growth. We will embody the ...",
+    "name": "20 min. yoga short feat. spring",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003djl6Qljfj3Qc"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-05-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/jl6Qljfj3Qc/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/QHIx70HS-zkZA0wPqR6KmfUhkyfPqem1jJGWxcOUrnc/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/QHIx70HS-zkZA0wPqR6KmfUhkyfPqem1jJGWxcOUrnc/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003djl6Qljfj3Qc"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

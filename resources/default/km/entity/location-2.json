@@ -1,0 +1,26 @@
+{
+  "$id": "location-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "1 Madison Ave",
+      "line2": "5th Floor",
+      "postalCode": "10010",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "2118"
+    ],
+    "featuredMessage": {
+      "description": "Let\u0027s get swole!"
+    },
+    "name": "Move with Matt",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

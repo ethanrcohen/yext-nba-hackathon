@@ -1,0 +1,34 @@
+{
+  "$id": "sh7P6mrhvAI",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This weeks yoga short features some good ole warrior poses. These are powerful poses that make us feel energized and strong. 2 blocks will be nice if you have ...",
+    "name": "16 min. yoga short feat. warriors",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dsh7P6mrhvAI"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-07-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/sh7P6mrhvAI/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/MOJ1DPZB5qjqUjKYcixkbGkqLpKjr99B3gSWSM3twlg/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/MOJ1DPZB5qjqUjKYcixkbGkqLpKjr99B3gSWSM3twlg/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dsh7P6mrhvAI"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "2gJ1NqXEgnnIJRhRZEuu81",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "305 Fitness",
+    "c_playlistURL": "https://open.spotify.com/playlist/2gJ1NqXEgnnIJRhRZEuu81",
+    "description": "Make sure you\u0027re up to date on all our current choreo so you can #SLAY your next class!",
+    "name": "What We\u0027re Dancin\u0027 To",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebbcbe50d95e03836375b88cad7",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/Yo7SgQdSc-_wRF0UNqMW5DHsA2_GhS37lQDnzH1hc-8/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Yo7SgQdSc-_wRF0UNqMW5DHsA2_GhS37lQDnzH1hc-8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Yo7SgQdSc-_wRF0UNqMW5DHsA2_GhS37lQDnzH1hc-8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Yo7SgQdSc-_wRF0UNqMW5DHsA2_GhS37lQDnzH1hc-8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Yo7SgQdSc-_wRF0UNqMW5DHsA2_GhS37lQDnzH1hc-8/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

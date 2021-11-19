@@ -1,0 +1,79 @@
+{
+  "$id": "27D3M4tn9hPbuM3E6QMuAP",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "aps443",
+    "c_playlistURL": "https://open.spotify.com/playlist/27D3M4tn9hPbuM3E6QMuAP",
+    "name": "SPACE",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b273014080d39d56c94c0b285362ab67616d0000b2733f863eb5ebcf1655dd4472ebab67616d0000b273bb4474fdf0517c301f1201a5ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/7QFLKMjGsSFNUad-4nRuoUu_Y140L1IOOxOArEgzvS4/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7QFLKMjGsSFNUad-4nRuoUu_Y140L1IOOxOArEgzvS4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7QFLKMjGsSFNUad-4nRuoUu_Y140L1IOOxOArEgzvS4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7QFLKMjGsSFNUad-4nRuoUu_Y140L1IOOxOArEgzvS4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7QFLKMjGsSFNUad-4nRuoUu_Y140L1IOOxOArEgzvS4/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b273014080d39d56c94c0b285362ab67616d0000b2733f863eb5ebcf1655dd4472ebab67616d0000b273bb4474fdf0517c301f1201a5ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/HEVtUClEA6_raVwfZyQy9gUgD3B7ihjiJEPHRvNJRYE/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HEVtUClEA6_raVwfZyQy9gUgD3B7ihjiJEPHRvNJRYE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HEVtUClEA6_raVwfZyQy9gUgD3B7ihjiJEPHRvNJRYE/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b273014080d39d56c94c0b285362ab67616d0000b2733f863eb5ebcf1655dd4472ebab67616d0000b273bb4474fdf0517c301f1201a5ab67616d0000b273d80427bbe8360230792814e1",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/kKCylgzCH_1gxP7FyzFBm6vpu_jVCdbMOgtyOryEkFI/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/kKCylgzCH_1gxP7FyzFBm6vpu_jVCdbMOgtyOryEkFI/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

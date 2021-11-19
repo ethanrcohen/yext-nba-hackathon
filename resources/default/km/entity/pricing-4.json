@@ -1,0 +1,21 @@
+{
+  "$id": "pricing-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_classType": [
+      "classType-1",
+      "classType-3",
+      "classType-2"
+    ],
+    "c_validity": "Valid for 1 Month",
+    "name": "Monthly Pass",
+    "price": {
+      "currencyCode": "USD",
+      "value": "250"
+    },
+    "richTextDescription": "Buy this pass if you plan on coming to class 4 times a week or more. It will be worth it!"
+  },
+  "entityType": "ce_pricing",
+  "labels": []
+}

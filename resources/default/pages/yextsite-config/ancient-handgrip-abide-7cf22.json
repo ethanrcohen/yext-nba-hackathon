@@ -1,0 +1,28 @@
+{
+  "$id": "ancient-handgrip-abide-7cf22",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Hackathon",
+  "repoConfig": "eleven-endanger-emblem-1d0d8",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [],
+      "isProductionBranch": true
+    },
+    {
+      "name": "css",
+      "envVars": [],
+      "isProductionBranch": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_teamName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Team Name",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

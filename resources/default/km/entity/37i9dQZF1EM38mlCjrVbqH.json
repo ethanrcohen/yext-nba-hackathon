@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1EM38mlCjrVbqH",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1EM38mlCjrVbqH",
+    "description": "The songs you loved most this year, all wrapped up.",
+    "name": "Your Top Songs 2020",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/bZesUCpp3GPNhJezso_1zJUSPPP1nqxh7BVgd8sDX_w/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bZesUCpp3GPNhJezso_1zJUSPPP1nqxh7BVgd8sDX_w/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bZesUCpp3GPNhJezso_1zJUSPPP1nqxh7BVgd8sDX_w/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bZesUCpp3GPNhJezso_1zJUSPPP1nqxh7BVgd8sDX_w/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bZesUCpp3GPNhJezso_1zJUSPPP1nqxh7BVgd8sDX_w/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,34 @@
+{
+  "$id": "TSs7ASrCpVA",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "and anyone!! this flow is literally made for anyone that\u0027s feeling a bit stiff and wants to get their blood flowing and muscles groovin\u0027. I made this flow for my friend ...",
+    "name": "18 min. yoga short feat. a flow for Michael (and other runners)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dTSs7ASrCpVA"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-07-07",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/TSs7ASrCpVA/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/J0bKiKuciA7fazkLx0ps-Ku0JtcA7_P3iFOm3rrV7Vw/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/J0bKiKuciA7fazkLx0ps-Ku0JtcA7_P3iFOm3rrV7Vw/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dTSs7ASrCpVA"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

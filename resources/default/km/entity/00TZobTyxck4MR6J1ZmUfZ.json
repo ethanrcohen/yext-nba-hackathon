@@ -1,0 +1,12 @@
+{
+  "$id": "00TZobTyxck4MR6J1ZmUfZ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/00TZobTyxck4MR6J1ZmUfZ",
+    "name": "all shook upp"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,44 @@
+{
+  "$id": "0kfLTCHcUqaB2Y2QBz2tKt",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/0kfLTCHcUqaB2Y2QBz2tKt",
+    "name": "Timeflies – Just For Fun (Deluxe)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b273d2446b7008dc5859c274ed55",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/ZtEXvWdjSB-Sb-BUwEFGaFeXxf1CDQ8NpXZsVpi3HhY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZtEXvWdjSB-Sb-BUwEFGaFeXxf1CDQ8NpXZsVpi3HhY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZtEXvWdjSB-Sb-BUwEFGaFeXxf1CDQ8NpXZsVpi3HhY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZtEXvWdjSB-Sb-BUwEFGaFeXxf1CDQ8NpXZsVpi3HhY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZtEXvWdjSB-Sb-BUwEFGaFeXxf1CDQ8NpXZsVpi3HhY/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

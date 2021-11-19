@@ -1,0 +1,34 @@
+{
+  "$id": "gmCNvUWJKec",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "In today\u0027s class we spent a bunch of time in dog (get ready!), built our foundations up in virasana, and remembered how to use a compass. Yes, we do compass ...",
+    "name": "fez flow - compass 2",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dgmCNvUWJKec"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-17",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/gmCNvUWJKec/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/BUpr88jfYQoM-exyMrlI3m38OxL0eiMq_sbxWsfYyX4/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/BUpr88jfYQoM-exyMrlI3m38OxL0eiMq_sbxWsfYyX4/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dgmCNvUWJKec"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

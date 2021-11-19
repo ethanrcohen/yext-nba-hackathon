@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DX5vMTfJy5XKE",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE",
+    "description": "\u0027Tis the season! All new holiday releases. Cover: Dan + Shay",
+    "name": "New Music Holiday",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f000000030a9ae9291dd3387ea8f42533",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/oVmHec8-2OxilIBK7RvtkEaz7m5Z0apaGRK4WeUpdXU/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oVmHec8-2OxilIBK7RvtkEaz7m5Z0apaGRK4WeUpdXU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oVmHec8-2OxilIBK7RvtkEaz7m5Z0apaGRK4WeUpdXU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oVmHec8-2OxilIBK7RvtkEaz7m5Z0apaGRK4WeUpdXU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oVmHec8-2OxilIBK7RvtkEaz7m5Z0apaGRK4WeUpdXU/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

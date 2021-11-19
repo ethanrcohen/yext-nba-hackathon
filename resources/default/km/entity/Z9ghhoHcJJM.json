@@ -1,0 +1,34 @@
+{
+  "$id": "Z9ghhoHcJJM",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "wow!! first virtual class in such a long time - it felt foreign and also like going back to my roots recording on zoom again. We did a bunch of hip work in this one!",
+    "name": "fez flow - get hippy with it",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dZ9ghhoHcJJM"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-08-08",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/Z9ghhoHcJJM/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/hhNobRvfoi4i0WBwaRrtLuds3hvI-nhPMCO6aedU1fg/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/hhNobRvfoi4i0WBwaRrtLuds3hvI-nhPMCO6aedU1fg/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dZ9ghhoHcJJM"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

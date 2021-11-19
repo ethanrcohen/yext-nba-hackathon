@@ -1,0 +1,34 @@
+{
+  "$id": "qfSsFMRA1yY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "In this class, we do a bunch of lunges and spins as well as doing a few heart openers to get our bodies moving and grooving. Grab 2 blocks and a blanket per ...",
+    "name": "fez flow - A Katonah Inspired Spin Flow",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dqfSsFMRA1yY"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-06",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/qfSsFMRA1yY/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/5nh5LAetXsjbvWLGE3nXtdKtXeFGJmCq3cShpL2y-6g/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/5nh5LAetXsjbvWLGE3nXtdKtXeFGJmCq3cShpL2y-6g/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dqfSsFMRA1yY"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

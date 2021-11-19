@@ -1,0 +1,34 @@
+{
+  "$id": "H7ZHyFSVhhc",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Welcome to a class inspired by Imagine Dragons! We\u0027ll use our imagination a lot in this class and do poses that open up joints from our feet to our head.",
+    "name": "fez flow - inspired by imagine dragons",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dH7ZHyFSVhhc"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-28",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/H7ZHyFSVhhc/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/eon8kp5_OdSYk-1LuDTV04kkZcz6-gUqq8CfkYT6obM/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/eon8kp5_OdSYk-1LuDTV04kkZcz6-gUqq8CfkYT6obM/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dH7ZHyFSVhhc"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

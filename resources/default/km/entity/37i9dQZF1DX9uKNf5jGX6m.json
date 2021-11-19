@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DX9uKNf5jGX6m",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DX9uKNf5jGX6m",
+    "description": "New age music for balancing mind and body.",
+    "name": "Yoga \u0026 Meditation",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f000000034ba00eaa7b36e3001a201f8f",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/V8V96X2TYSbFRNu0usBi8GsePRxuijGiNYfXzKOEkso/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/V8V96X2TYSbFRNu0usBi8GsePRxuijGiNYfXzKOEkso/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/V8V96X2TYSbFRNu0usBi8GsePRxuijGiNYfXzKOEkso/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/V8V96X2TYSbFRNu0usBi8GsePRxuijGiNYfXzKOEkso/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/V8V96X2TYSbFRNu0usBi8GsePRxuijGiNYfXzKOEkso/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "16gGbbWy7d8bLIZgLPS6jc",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Lauv",
+    "c_playlistURL": "https://open.spotify.com/playlist/16gGbbWy7d8bLIZgLPS6jc",
+    "description": "songs i\u0027ve been listening to",
+    "name": "Lauv Loves",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebb482479ccb98c7992a008b6ff",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/TRVDSpF9eqVUMoL7ePWFcrLAzPlJjltsvlai1rg4lCw/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TRVDSpF9eqVUMoL7ePWFcrLAzPlJjltsvlai1rg4lCw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TRVDSpF9eqVUMoL7ePWFcrLAzPlJjltsvlai1rg4lCw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TRVDSpF9eqVUMoL7ePWFcrLAzPlJjltsvlai1rg4lCw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TRVDSpF9eqVUMoL7ePWFcrLAzPlJjltsvlai1rg4lCw/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "ce_classType",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Class Type",
+  "enabled": true,
+  "field": [
+    {
+      "id": "richTextDescription",
+      "required": false
+    },
+    {
+      "id": "name",
+      "required": true
+    },
+    {
+      "id": "folder",
+      "required": false
+    },
+    {
+      "id": "labels",
+      "required": false
+    },
+    {
+      "id": "entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": ""
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "merch-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "gtin": "7890",
+    "name": "Matt\u0027s Mat",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 193,
+          "thumbnails": [
+            {
+              "height": 193,
+              "url": "https://a.mktgcdn.com/p/mtnLTriG6mLh4yIzlOs8qxUTfAUtIB5dCi05gfy7Csw/261x193.jpg",
+              "width": 261
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/mtnLTriG6mLh4yIzlOs8qxUTfAUtIB5dCi05gfy7Csw/261x193.jpg",
+          "width": 261
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "40"
+    },
+    "richTextDescription": "Our very own Matt Malone designed this mat with love and joy. It\u0027s ami\\-zing microfiber technology guarantees you won\u0027t slip during any pose. Love that.",
+    "sku": "789"
+  },
+  "entityType": "product",
+  "labels": []
+}

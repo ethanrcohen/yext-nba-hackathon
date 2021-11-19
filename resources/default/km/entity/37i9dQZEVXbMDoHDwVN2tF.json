@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZEVXbMDoHDwVN2tF",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF",
+    "description": "Your daily update of the most played tracks right now - Global.",
+    "name": "Top 50 - Global",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/ltukxF9kaj63NN0i-npRLwqAOSH5W6FzJRWhkgtbKpY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ltukxF9kaj63NN0i-npRLwqAOSH5W6FzJRWhkgtbKpY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ltukxF9kaj63NN0i-npRLwqAOSH5W6FzJRWhkgtbKpY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ltukxF9kaj63NN0i-npRLwqAOSH5W6FzJRWhkgtbKpY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ltukxF9kaj63NN0i-npRLwqAOSH5W6FzJRWhkgtbKpY/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

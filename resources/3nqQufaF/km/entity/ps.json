@@ -1,0 +1,34 @@
+{
+  "$id": "3nqQufaF_ps",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Lol this is a long name! But it describes it well. Also sorry for the half cut off head at the end, but you get it! Have a comfy day and do some stuff to increase the ...",
+    "name": "17 min. yoga short feat. ankle/neck mobility",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d3nqQufaF_ps"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-04",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/3nqQufaF_ps/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/MpQ8hGwkJHxFA1T4L8EkFCO6Ppt65058rpe2wJ2MPxw/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/MpQ8hGwkJHxFA1T4L8EkFCO6Ppt65058rpe2wJ2MPxw/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d3nqQufaF_ps"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

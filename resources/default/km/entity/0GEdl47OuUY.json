@@ -1,0 +1,34 @@
+{
+  "$id": "0GEdl47OuUY",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "We all love a good middle split moment. Take it as you feel comfortable and enjoy all the other twists in this class! For more info on upcoming events and classes ...",
+    "name": "fez flow - Twist + Middle Split",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d0GEdl47OuUY"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-17",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/0GEdl47OuUY/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/x1E-STJccyDqPkpgeMklS-hvCbXuO_1Fs-dRqODcZik/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/x1E-STJccyDqPkpgeMklS-hvCbXuO_1Fs-dRqODcZik/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d0GEdl47OuUY"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

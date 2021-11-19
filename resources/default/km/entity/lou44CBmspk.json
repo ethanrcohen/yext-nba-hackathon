@@ -1,0 +1,34 @@
+{
+  "$id": "lou44CBmspk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "In this class we will embody winter and its elements - water, receptivity, going inward. Expect a bit of flow with an emphasis on pranayama and rest. You will ...",
+    "name": "fez flow - Winter Vibes",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dlou44CBmspk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-02-07",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/lou44CBmspk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/IelG8370OtRkLLeWXV2PwJTnSyT6E_N8sjOnARgdCic/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/IelG8370OtRkLLeWXV2PwJTnSyT6E_N8sjOnARgdCic/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dlou44CBmspk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

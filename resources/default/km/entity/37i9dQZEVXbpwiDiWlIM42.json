@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZEVXbpwiDiWlIM42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZEVXbpwiDiWlIM42",
+    "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+    "name": "Release Radar",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://newjams-images.scdn.co/v3/release-radar/ab6761610000e5ebc6b4b1657575437d76dbcbfb/en/large",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/EUimjSs9uQEb3tkEpUglj7GlVov0gj3-D2kFB---WxY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EUimjSs9uQEb3tkEpUglj7GlVov0gj3-D2kFB---WxY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EUimjSs9uQEb3tkEpUglj7GlVov0gj3-D2kFB---WxY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EUimjSs9uQEb3tkEpUglj7GlVov0gj3-D2kFB---WxY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EUimjSs9uQEb3tkEpUglj7GlVov0gj3-D2kFB---WxY/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

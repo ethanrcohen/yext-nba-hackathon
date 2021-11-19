@@ -1,0 +1,79 @@
+{
+  "$id": "6mzse4TOjOIjjqauAoX89h",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Krissy Jones",
+    "c_playlistURL": "https://open.spotify.com/playlist/6mzse4TOjOIjjqauAoX89h",
+    "name": "January TING",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b27355c9b757d8d511d196350bfaab67616d0000b27378793b978d4804c30b8b6f1dab67616d0000b27386ae75aef90b01b817da4378ab67616d0000b273a13907cf58fb1bd99f90a543",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/vjSJ8h-jzRZQmVroUYb_NYMysnSd09crW4OXArb9aPk/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vjSJ8h-jzRZQmVroUYb_NYMysnSd09crW4OXArb9aPk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vjSJ8h-jzRZQmVroUYb_NYMysnSd09crW4OXArb9aPk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vjSJ8h-jzRZQmVroUYb_NYMysnSd09crW4OXArb9aPk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vjSJ8h-jzRZQmVroUYb_NYMysnSd09crW4OXArb9aPk/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b27355c9b757d8d511d196350bfaab67616d0000b27378793b978d4804c30b8b6f1dab67616d0000b27386ae75aef90b01b817da4378ab67616d0000b273a13907cf58fb1bd99f90a543",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/2J6Yt2Zq26eqqT1U0YOPeggbKqQMWqv67LlePe4ffS8/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2J6Yt2Zq26eqqT1U0YOPeggbKqQMWqv67LlePe4ffS8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2J6Yt2Zq26eqqT1U0YOPeggbKqQMWqv67LlePe4ffS8/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b27355c9b757d8d511d196350bfaab67616d0000b27378793b978d4804c30b8b6f1dab67616d0000b27386ae75aef90b01b817da4378ab67616d0000b273a13907cf58fb1bd99f90a543",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/-GRjYZK0HCbnE1-FiVvIRQMaFUpSN0t2e8hEN3A7sdg/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/-GRjYZK0HCbnE1-FiVvIRQMaFUpSN0t2e8hEN3A7sdg/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "1GHbQ77E1rSAArc9wUwx0E",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/1GHbQ77E1rSAArc9wUwx0E",
+    "name": "i"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

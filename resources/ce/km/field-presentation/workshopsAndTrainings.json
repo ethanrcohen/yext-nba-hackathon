@@ -1,0 +1,60 @@
+{
+  "$id": "ce_workshopsAndTrainings",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_workshopsAndTrainings",
+  "displayName": "Workshops and Trainings",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "richTextDescription"
+        },
+        {
+          "id": "c_date"
+        },
+        {
+          "id": "c_time"
+        },
+        {
+          "id": "c_teacher"
+        },
+        {
+          "id": "linkedLocation"
+        },
+        {
+          "id": "price"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

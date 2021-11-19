@@ -1,0 +1,34 @@
+{
+  "$id": "h255R5myxhI",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Our hips really don\u0027t lie. We store a LOT - literally and figuratively - in our hips. That\u0027s why they are typically so tight and why we need to keep working on them.",
+    "name": "fez flow - Hips Don\u0027t Lie ;)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dh255R5myxhI"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/h255R5myxhI/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/juZGSk34xEyJBYJR_lGOazeCX7ycnkk5DkxVR0L44vc/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/juZGSk34xEyJBYJR_lGOazeCX7ycnkk5DkxVR0L44vc/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dh255R5myxhI"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

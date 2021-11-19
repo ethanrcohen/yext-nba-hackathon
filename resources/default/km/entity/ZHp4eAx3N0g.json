@@ -1,0 +1,34 @@
+{
+  "$id": "ZHp4eAx3N0g",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "this thumbnail is me in a nutshell! hello! In this class, we moved our bodies in all different directions and took up a lot of space. Get ready to think of how your ...",
+    "name": "fez flow - Take. Up. Space!",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dZHp4eAx3N0g"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-04",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/ZHp4eAx3N0g/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/tLOjHzByw95yfAqt5GtgBWXK9MEZiG4HozyHgqzuC9c/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/tLOjHzByw95yfAqt5GtgBWXK9MEZiG4HozyHgqzuC9c/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dZHp4eAx3N0g"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

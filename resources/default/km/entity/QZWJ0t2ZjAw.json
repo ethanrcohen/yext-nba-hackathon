@@ -1,0 +1,34 @@
+{
+  "$id": "QZWJ0t2ZjAw",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "this week\u0027s yoga shorts helps us open our hips! Our hips are notoriously tighter than most other parts of our body so it\u0027s always good to give them a bit more love!",
+    "name": "18 min. yoga short feat. hips",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dQZWJ0t2ZjAw"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-18",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/QZWJ0t2ZjAw/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/0kxlwoVLg94-bMnX8daH4zBCj5ebjW53dd-PC3L8lCw/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/0kxlwoVLg94-bMnX8daH4zBCj5ebjW53dd-PC3L8lCw/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dQZWJ0t2ZjAw"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "4SdGlBZFZ45nFbF8M83HLe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Amanda Castilone",
+    "c_playlistURL": "https://open.spotify.com/playlist/4SdGlBZFZ45nFbF8M83HLe",
+    "name": "self acceptance - breathwork",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2730d32612587157a9be336b181ab67616d0000b27382c692934b3c42013d08d276ab67616d0000b273a662722823423eb42877272cab67616d0000b273d1bf711267281458ad505059",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/ru38O16Q_yIIfQ_M5M_mNdeSifHbpragjcy2mPERMBk/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ru38O16Q_yIIfQ_M5M_mNdeSifHbpragjcy2mPERMBk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ru38O16Q_yIIfQ_M5M_mNdeSifHbpragjcy2mPERMBk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ru38O16Q_yIIfQ_M5M_mNdeSifHbpragjcy2mPERMBk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ru38O16Q_yIIfQ_M5M_mNdeSifHbpragjcy2mPERMBk/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2730d32612587157a9be336b181ab67616d0000b27382c692934b3c42013d08d276ab67616d0000b273a662722823423eb42877272cab67616d0000b273d1bf711267281458ad505059",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/ckW7MnsHxIrbVIQ3c-kTvCfxhGY1q9Ag19uWGaCKbek/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ckW7MnsHxIrbVIQ3c-kTvCfxhGY1q9Ag19uWGaCKbek/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ckW7MnsHxIrbVIQ3c-kTvCfxhGY1q9Ag19uWGaCKbek/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2730d32612587157a9be336b181ab67616d0000b27382c692934b3c42013d08d276ab67616d0000b273a662722823423eb42877272cab67616d0000b273d1bf711267281458ad505059",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/sMw-KghxSxJJFUgWa950ZX06WRhUcTiCy153tscAMbI/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sMw-KghxSxJJFUgWa950ZX06WRhUcTiCy153tscAMbI/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

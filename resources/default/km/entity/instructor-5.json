@@ -1,0 +1,48 @@
+{
+  "$id": "instructor-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_aboutMe": "My classes blend restorative elements with intelligent and challenging sequences that leave students feeling wrung\\-out — expect some meditation.",
+    "c_birthday": "2021-11-27",
+    "c_favePlaylistRn": [
+      "2lW3rmUcu6Vp3s5sQdoiTh"
+    ],
+    "c_goToKaraokeSong": "Bye Bye Bye",
+    "c_hometown": "New York, NY",
+    "c_inspirationalQuote": "\"Dreams come true if you survive the hard times.\"",
+    "c_instagram": "https://www.instagram.com/movewithfez",
+    "c_pronouns": "he/him",
+    "c_specialTalent": "I can eat the juice of a lemon without sugar.",
+    "c_training": "Has spent 7 months training with the amazing Dana Fesjian and has swiftly become an amazing instructor of yoga theory.",
+    "linkedLocation": "location-3",
+    "logo": {
+      "image": {
+        "height": 512,
+        "sourceUrl": "https://ca.slack-edge.com/ET8ARFBFY-W01835Y5P1N-22f95aa757bb-512",
+        "thumbnails": [
+          {
+            "height": 512,
+            "url": "https://a.mktgcdn.com/p/QgB_z_-pNF5rIiKOhtWEtdfcKf9gbbRqD3qFtkXry_k/512x512.png",
+            "width": 512
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/QgB_z_-pNF5rIiKOhtWEtdfcKf9gbbRqD3qFtkXry_k/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/QgB_z_-pNF5rIiKOhtWEtdfcKf9gbbRqD3qFtkXry_k/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/QgB_z_-pNF5rIiKOhtWEtdfcKf9gbbRqD3qFtkXry_k/512x512.png",
+        "width": 512
+      }
+    },
+    "name": "Matt Malone"
+  },
+  "entityType": "ce_instructors",
+  "labels": []
+}

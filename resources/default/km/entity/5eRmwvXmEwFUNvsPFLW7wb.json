@@ -1,0 +1,44 @@
+{
+  "$id": "5eRmwvXmEwFUNvsPFLW7wb",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/5eRmwvXmEwFUNvsPFLW7wb",
+    "name": "Starred",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b273c237ac1410ffd6cfef5ac8e6",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/gPmOvsWXG4MquPRr9foKcBnmuQXpn6RtMkw9VgP1dmY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gPmOvsWXG4MquPRr9foKcBnmuQXpn6RtMkw9VgP1dmY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gPmOvsWXG4MquPRr9foKcBnmuQXpn6RtMkw9VgP1dmY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gPmOvsWXG4MquPRr9foKcBnmuQXpn6RtMkw9VgP1dmY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gPmOvsWXG4MquPRr9foKcBnmuQXpn6RtMkw9VgP1dmY/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

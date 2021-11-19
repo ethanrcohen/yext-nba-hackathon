@@ -1,0 +1,34 @@
+{
+  "$id": "JAXnQNrjop4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This mini class is all about fall and what it means to you! Grab 2 blocks and we will do some fun stuff to work up to an inversion. For more info on upcoming ...",
+    "name": "15 min. yoga short feat. fall",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dJAXnQNrjop4"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-05-18",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/JAXnQNrjop4/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/GSYBOtoR1P0jJsU1X1cLPQxW6yx8XuCTvxCgeWtu_N4/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/GSYBOtoR1P0jJsU1X1cLPQxW6yx8XuCTvxCgeWtu_N4/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dJAXnQNrjop4"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

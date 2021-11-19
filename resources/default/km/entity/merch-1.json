@@ -1,0 +1,33 @@
+{
+  "$id": "merch-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "gtin": "4567",
+    "name": "Movement Hat",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 200,
+          "thumbnails": [
+            {
+              "height": 200,
+              "url": "https://a.mktgcdn.com/p/U_dziNd4vqu-TeC4qY1KxEPNKDt-Vujsk3GgUJ73M-o/252x200.jpg",
+              "width": 252
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/U_dziNd4vqu-TeC4qY1KxEPNKDt-Vujsk3GgUJ73M-o/252x200.jpg",
+          "width": 252
+        }
+      }
+    ],
+    "price": {
+      "currencyCode": "USD",
+      "value": "15"
+    },
+    "richTextDescription": "Have you ever wanted a cool hat you can move in? Now you got one!",
+    "sku": "456"
+  },
+  "entityType": "product",
+  "labels": []
+}

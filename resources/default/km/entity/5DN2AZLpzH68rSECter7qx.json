@@ -1,0 +1,40 @@
+{
+  "$id": "5DN2AZLpzH68rSECter7qx",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Kelley Hoag",
+    "c_playlistURL": "https://open.spotify.com/playlist/5DN2AZLpzH68rSECter7qx",
+    "description": "RISE September 2021 Playlist for embodying and exploring self intimacy",
+    "name": "Self Intimacy Playlist [RISE]",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebbcb45a66ff4c71e44fbf12c04",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/9sNgRPQxNB3oNVPAbcvhf7miDL-Uh6FDE_ZFpqrM3eI/520x640.jpg",
+              "width": 520
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9sNgRPQxNB3oNVPAbcvhf7miDL-Uh6FDE_ZFpqrM3eI/366x450.jpg",
+              "width": 366
+            },
+            {
+              "height": 241,
+              "url": "http://a.mktgcdn.com/p/9sNgRPQxNB3oNVPAbcvhf7miDL-Uh6FDE_ZFpqrM3eI/196x241.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9sNgRPQxNB3oNVPAbcvhf7miDL-Uh6FDE_ZFpqrM3eI/520x640.jpg",
+          "width": 520
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

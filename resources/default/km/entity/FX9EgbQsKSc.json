@@ -1,0 +1,34 @@
+{
+  "$id": "FX9EgbQsKSc",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "In this class, we do a lot of leg stuff. Your legs will feel it today and tomorrow and likely the day after, so you\u0027re welcome. Grab 2 blocks and a blanket, yay!",
+    "name": "fez flow - Legs 4 Days",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dFX9EgbQsKSc"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/FX9EgbQsKSc/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/7hfUFAbP2rBPzdVOw9O-a7uoSoVL0RH-H4tutLd3Tog/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/7hfUFAbP2rBPzdVOw9O-a7uoSoVL0RH-H4tutLd3Tog/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dFX9EgbQsKSc"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

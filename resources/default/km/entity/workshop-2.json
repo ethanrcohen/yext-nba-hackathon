@@ -1,0 +1,49 @@
+{
+  "$id": "workshop-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_date": "2022-06-05",
+    "c_teacher": [
+      "instructor-3"
+    ],
+    "c_time": {
+      "friday": {
+        "isClosed": true
+      },
+      "monday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "18:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": true
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      }
+    },
+    "linkedLocation": "location-2",
+    "name": "Learn Pranayama Techniques",
+    "price": {
+      "currencyCode": "USD",
+      "value": "75"
+    },
+    "richTextDescription": "In this 2 hour workshop, we will do many breath techniques to fee recharged and refreshed. Afterwards, you can take these techniques and use them at home. Breath is our life force and knowing how to use our breath to be our best selves is an amazing skill to have."
+  },
+  "entityType": "ce_workshopsAndTrainings",
+  "labels": []
+}

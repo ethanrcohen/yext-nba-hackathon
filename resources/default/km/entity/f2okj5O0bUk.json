@@ -1,0 +1,34 @@
+{
+  "$id": "f2okj5O0bUk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Put on your fave playlist that you love to move to and do this ~energy~ flow! Or here\u0027s a flowy playlist that I love: ...",
+    "name": "14 min. yoga short feat. .5*m*v^2",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003df2okj5O0bUk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-22",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/f2okj5O0bUk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/-ZOhJLEFkTS3XuFIfsC75ygMpYfSwQu5OnKj5S4sauE/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/-ZOhJLEFkTS3XuFIfsC75ygMpYfSwQu5OnKj5S4sauE/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003df2okj5O0bUk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

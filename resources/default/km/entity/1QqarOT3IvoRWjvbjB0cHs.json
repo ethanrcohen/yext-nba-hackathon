@@ -1,0 +1,12 @@
+{
+  "$id": "1QqarOT3IvoRWjvbjB0cHs",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/1QqarOT3IvoRWjvbjB0cHs",
+    "name": "#yogashorts season2 - abs"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

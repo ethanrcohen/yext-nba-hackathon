@@ -1,0 +1,34 @@
+{
+  "$id": "XskkC3y3Hoo",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Bonus Season 1 Episode!!! Woohoo! This is the perfect mini class to do when you are feeling like you\u0027ve been going 500 kilometers/miles per hour and need to ...",
+    "name": "BONUS 19 min. yoga short feat. a time to chill",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dXskkC3y3Hoo"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-08-29",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/XskkC3y3Hoo/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/2fkO_4i9V6zDAYSsCeV_ixRwpJJYzm_qZRFNGEwo-6U/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/2fkO_4i9V6zDAYSsCeV_ixRwpJJYzm_qZRFNGEwo-6U/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dXskkC3y3Hoo"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

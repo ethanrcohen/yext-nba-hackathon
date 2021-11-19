@@ -1,0 +1,12 @@
+{
+  "$id": "faq-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Head on over to our credits page and click buy. We like it when things are easy.",
+    "name": "How do I add more credits to my account?",
+    "question": "How do I add more credits to my account?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

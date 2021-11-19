@@ -1,0 +1,25 @@
+{
+  "$id": "location-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Curwensville",
+      "countryCode": "US",
+      "line1": "13 Watts Road",
+      "postalCode": "16833",
+      "region": "PA"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "2118"
+    ],
+    "featuredMessage": {
+      "description": "Let\u0027s get rolling!"
+    },
+    "name": "Move with Ami",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "c_hometown",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hometown",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

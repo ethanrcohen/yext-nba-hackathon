@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1CAf810sSUPIzu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1CAf810sSUPIzu",
+    "description": "Time for Your Summer Rewind! We’ve made you a new playlist featuring your old summer favorites.",
+    "name": "Your Summer Rewind",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://lineup-images.scdn.co/summer-rewind-2020_LARGE-en.jpg",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/jfQKGXA5GULj38zWJd80wO67wPRLeJP0_66GYFGNWSY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jfQKGXA5GULj38zWJd80wO67wPRLeJP0_66GYFGNWSY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jfQKGXA5GULj38zWJd80wO67wPRLeJP0_66GYFGNWSY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jfQKGXA5GULj38zWJd80wO67wPRLeJP0_66GYFGNWSY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jfQKGXA5GULj38zWJd80wO67wPRLeJP0_66GYFGNWSY/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

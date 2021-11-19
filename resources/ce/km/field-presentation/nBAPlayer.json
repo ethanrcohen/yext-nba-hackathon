@@ -1,0 +1,102 @@
+{
+  "$id": "ce_nBAPlayer",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_nBAPlayer",
+  "displayName": "NBA Player",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "firstName"
+        },
+        {
+          "id": "lastName"
+        },
+        {
+          "id": "c_birthdate"
+        },
+        {
+          "id": "c_homeCountry"
+        },
+        {
+          "id": "c_school"
+        },
+        {
+          "id": "c_height"
+        },
+        {
+          "id": "c_weight"
+        },
+        {
+          "id": "c_seasonsPlayed"
+        },
+        {
+          "id": "c_jerseyNumber"
+        },
+        {
+          "id": "c_position"
+        },
+        {
+          "id": "c_draftRound"
+        },
+        {
+          "id": "c_draftYear"
+        },
+        {
+          "id": "c_greatest75"
+        },
+        {
+          "id": "c_draftNumber"
+        },
+        {
+          "id": "c_activeFrom1"
+        },
+        {
+          "id": "c_activeUntil1"
+        },
+        {
+          "id": "c_teamName"
+        },
+        {
+          "id": "c_photo"
+        },
+        {
+          "id": "primaryPhoto"
+        },
+        {
+          "id": "youtube_thumbnailPhoto"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

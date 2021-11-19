@@ -1,0 +1,11 @@
+{
+  "$id": "classType-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Yoga Flow",
+    "richTextDescription": "Our OG yoga flow. Come and move your body with some fun, weird, and different poses. We like to move to create space in our joints so we can live a mobile life and that\u0027s what this class provides."
+  },
+  "entityType": "ce_classType",
+  "labels": []
+}

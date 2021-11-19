@@ -1,0 +1,26 @@
+{
+  "$id": "location-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "de",
+  "content": {
+    "address": {
+      "city": "Berlin",
+      "countryCode": "DE",
+      "line1": "Frankfurter Allee 25",
+      "postalCode": "10247",
+      "region": "Berlin"
+    },
+    "addressHidden": false,
+    "categoryIds": [
+      "2118"
+    ],
+    "featuredMessage": {
+      "description": "Sign Up 4 Class!",
+      "url": "https://www.danafesjian.com/sign-up-for-class"
+    },
+    "name": "Move With Fez",
+    "timezone": "Europe/Berlin"
+  },
+  "entityType": "location",
+  "labels": []
+}

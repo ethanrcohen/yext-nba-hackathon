@@ -1,0 +1,50 @@
+{
+  "$id": "youtube_video",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Video",
+  "enabled": true,
+  "field": [
+    {
+      "id": "description",
+      "required": false
+    },
+    {
+      "id": "name",
+      "required": true
+    },
+    {
+      "id": "youtube_channelID",
+      "required": false
+    },
+    {
+      "id": "youtube_publishedAt",
+      "required": false
+    },
+    {
+      "id": "youtube_thumbnailPhoto",
+      "required": false
+    },
+    {
+      "id": "youtube_videoURL",
+      "required": false
+    },
+    {
+      "id": "folder",
+      "required": false
+    },
+    {
+      "id": "labels",
+      "required": false
+    },
+    {
+      "id": "entityId",
+      "required": true
+    },
+    {
+      "id": "videos",
+      "required": false
+    }
+  ],
+  "pluralDisplayName": "Videos"
+}

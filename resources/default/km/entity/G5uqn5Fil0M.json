@@ -1,0 +1,34 @@
+{
+  "$id": "G5uqn5Fil0M",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This class is about an hour and embodies elements of summer - building heat, fire, and creating energy. If you want to sweat, this class is for you! For class you ...",
+    "name": "fez flow - summer flow",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dG5uqn5Fil0M"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-02-21",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/G5uqn5Fil0M/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/KJg0xeBqwh0TUX3cWs4O-vQb8KDjCvnyQRmsddd49oc/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/KJg0xeBqwh0TUX3cWs4O-vQb8KDjCvnyQRmsddd49oc/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dG5uqn5Fil0M"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

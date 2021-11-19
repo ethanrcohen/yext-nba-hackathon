@@ -1,0 +1,80 @@
+{
+  "$id": "2kF6uOgQI304kJpYLYGyqO",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Kristin Dee",
+    "c_playlistURL": "https://open.spotify.com/playlist/2kF6uOgQI304kJpYLYGyqO",
+    "description": "chill playlist for a 60 minute nourish class",
+    "name": "nourish YOGA - come in closer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2731af448d48bf5c38b927c8ff5ab67616d0000b2735379bf5f70b87f736f20a9a0ab67616d0000b27389c67a9555d8b9a02f62134fab67616d0000b273f2f6793b7725a1a81b4b1805",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/63Dwy6iYsMNEERfJCf8ldlh39XUZcOLbJRXL4daa2JY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/63Dwy6iYsMNEERfJCf8ldlh39XUZcOLbJRXL4daa2JY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/63Dwy6iYsMNEERfJCf8ldlh39XUZcOLbJRXL4daa2JY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/63Dwy6iYsMNEERfJCf8ldlh39XUZcOLbJRXL4daa2JY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/63Dwy6iYsMNEERfJCf8ldlh39XUZcOLbJRXL4daa2JY/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2731af448d48bf5c38b927c8ff5ab67616d0000b2735379bf5f70b87f736f20a9a0ab67616d0000b27389c67a9555d8b9a02f62134fab67616d0000b273f2f6793b7725a1a81b4b1805",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/XzTiNSDsPPj8YF-7BSUmft8IdT-7NuOeKczBswhtcv8/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XzTiNSDsPPj8YF-7BSUmft8IdT-7NuOeKczBswhtcv8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XzTiNSDsPPj8YF-7BSUmft8IdT-7NuOeKczBswhtcv8/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2731af448d48bf5c38b927c8ff5ab67616d0000b2735379bf5f70b87f736f20a9a0ab67616d0000b27389c67a9555d8b9a02f62134fab67616d0000b273f2f6793b7725a1a81b4b1805",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/HNFrSNuJTE-Sin5E3XCBxgpweW9lBUwtmp-37MeR5hM/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HNFrSNuJTE-Sin5E3XCBxgpweW9lBUwtmp-37MeR5hM/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

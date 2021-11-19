@@ -1,0 +1,34 @@
+{
+  "$id": "9glPlPX4nP4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "And we are back to online classes!! For the next few months we will have online class on Saturdays and all recordings will come here. woo. This class we ...",
+    "name": "fez yoga flow - very fitting",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d9glPlPX4nP4"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-11-13",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/9glPlPX4nP4/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/YIAOu4MVeZfE4wmxkfrfNlyclp9nla69XOQ7nUOvhAk/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/YIAOu4MVeZfE4wmxkfrfNlyclp9nla69XOQ7nUOvhAk/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d9glPlPX4nP4"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

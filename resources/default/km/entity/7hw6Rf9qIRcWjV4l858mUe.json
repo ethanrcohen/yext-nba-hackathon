@@ -1,0 +1,45 @@
+{
+  "$id": "7hw6Rf9qIRcWjV4l858mUe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Kelley Hoag",
+    "c_playlistURL": "https://open.spotify.com/playlist/7hw6Rf9qIRcWjV4l858mUe",
+    "description": "Connect to the body, spirit, soul. Ignite your inner fire. Be free, be wild, let flow.",
+    "name": "Embodiment Practice",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 628,
+          "sourceUrl": "https://i.scdn.co/image/ab67706c0000bebb0a355ff828e8f9ea3f5bc202",
+          "thumbnails": [
+            {
+              "height": 628,
+              "url": "http://a.mktgcdn.com/p/newbKNxp7i2eRi8749eeyomHbvrKvohwtjYSS2j7HDM/640x628.jpg",
+              "width": 640
+            },
+            {
+              "height": 607,
+              "url": "http://a.mktgcdn.com/p/newbKNxp7i2eRi8749eeyomHbvrKvohwtjYSS2j7HDM/619x607.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/newbKNxp7i2eRi8749eeyomHbvrKvohwtjYSS2j7HDM/459x450.jpg",
+              "width": 459
+            },
+            {
+              "height": 192,
+              "url": "http://a.mktgcdn.com/p/newbKNxp7i2eRi8749eeyomHbvrKvohwtjYSS2j7HDM/196x192.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/newbKNxp7i2eRi8749eeyomHbvrKvohwtjYSS2j7HDM/640x628.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

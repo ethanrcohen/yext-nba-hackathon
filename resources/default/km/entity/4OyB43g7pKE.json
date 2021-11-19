@@ -1,0 +1,34 @@
+{
+  "$id": "4OyB43g7pKE",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "We love vocab! Proprioception means \"perception or awareness of the position and movement of the body.\" (thank you dictionary) Whenever we\u0027re doing yoga ...",
+    "name": "fez flow - Proprioception ;) (and a headstand!)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d4OyB43g7pKE"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/4OyB43g7pKE/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/CDH_qupiGYEEkj4RCRR8Mr1ejSe6T2GWoPoxGa2WJjI/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/CDH_qupiGYEEkj4RCRR8Mr1ejSe6T2GWoPoxGa2WJjI/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d4OyB43g7pKE"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

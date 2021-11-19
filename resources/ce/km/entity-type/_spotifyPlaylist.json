@@ -1,0 +1,42 @@
+{
+  "$id": "ce__spotifyPlaylist",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Spotify Playlist",
+  "enabled": true,
+  "field": [
+    {
+      "id": "description",
+      "required": false
+    },
+    {
+      "id": "name",
+      "required": true
+    },
+    {
+      "id": "c_playlistOwner",
+      "required": false
+    },
+    {
+      "id": "c_playlistURL",
+      "required": false
+    },
+    {
+      "id": "folder",
+      "required": false
+    },
+    {
+      "id": "photoGallery",
+      "required": false
+    },
+    {
+      "id": "labels",
+      "required": false
+    },
+    {
+      "id": "entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Spotify Playlists"
+}

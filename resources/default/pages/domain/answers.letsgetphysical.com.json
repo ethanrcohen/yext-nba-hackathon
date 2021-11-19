@@ -1,0 +1,10 @@
+{
+  "$id": "answers.letsgetphysical.com",
+  "$schema": "https://schema.yext.com/config/pages/domain/v1",
+  "domainName": "answers.letsgetphysical.com",
+  "autoGenerateSitemap": false,
+  "domainAccess": false,
+  "pagesCDNAccess": true,
+  "answersIntegration": true,
+  "reverseProxy": false
+}

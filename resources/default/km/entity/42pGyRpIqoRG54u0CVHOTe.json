@@ -1,0 +1,44 @@
+{
+  "$id": "42pGyRpIqoRG54u0CVHOTe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/42pGyRpIqoRG54u0CVHOTe",
+    "name": "test",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b27310d19ab5058b7e6d527c2a4b",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/G2YGH33RMBmm7NgDFKZb12PlnQBITJvwbw-CJCV4Bo8/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/G2YGH33RMBmm7NgDFKZb12PlnQBITJvwbw-CJCV4Bo8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/G2YGH33RMBmm7NgDFKZb12PlnQBITJvwbw-CJCV4Bo8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/G2YGH33RMBmm7NgDFKZb12PlnQBITJvwbw-CJCV4Bo8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/G2YGH33RMBmm7NgDFKZb12PlnQBITJvwbw-CJCV4Bo8/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,34 @@
+{
+  "$id": "5__-FF8vYA8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "In this class we embody the elements of Fall! We will do a lot to create more space in our lungs and end with a forearm stand practice. For class, you will need: 1 ...",
+    "name": "fez flow - fall",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d5__-FF8vYA8"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-02-28",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/5__-FF8vYA8/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/8QuPMYyfG7mhlcZKEn4pABAXV0dgX-LuppI8sQIVYAI/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/8QuPMYyfG7mhlcZKEn4pABAXV0dgX-LuppI8sQIVYAI/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d5__-FF8vYA8"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

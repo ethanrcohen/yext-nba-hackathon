@@ -1,0 +1,209 @@
+{
+  "$id": "nbaplayers",
+  "$schema": "https://schema.yext.com/config/km/connector/v2",
+  "displayName": "nbaplayers",
+  "entityType": "ce_nBAPlayer",
+  "source": {
+    "sourceConfig": {
+      "functionConfig": {
+        "plugin": "FetchPlayers",
+        "function": "dataSource",
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "players"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "First Name",
+        "path": "firstName"
+      },
+      {
+        "type": "JSON",
+        "header": "Last Name",
+        "path": "lastName"
+      },
+      {
+        "type": "JSON",
+        "header": "Name",
+        "path": "name"
+      },
+      {
+        "type": "JSON",
+        "header": "id",
+        "path": "id"
+      },
+      {
+        "type": "JSON",
+        "header": "Rookie Year",
+        "path": "fromYear"
+      },
+      {
+        "type": "JSON",
+        "header": "Last Active Year",
+        "path": "toYear"
+      },
+      {
+        "type": "JSON",
+        "header": "birthdate",
+        "path": "birthdate"
+      },
+      {
+        "type": "JSON",
+        "header": "country",
+        "path": "country"
+      },
+      {
+        "type": "JSON",
+        "header": "school",
+        "path": "school"
+      },
+      {
+        "type": "JSON",
+        "header": "height",
+        "path": "height"
+      },
+      {
+        "type": "JSON",
+        "header": "weight",
+        "path": "weight"
+      },
+      {
+        "type": "JSON",
+        "header": "seasonsPlayed",
+        "path": "seasonsPlayed"
+      },
+      {
+        "type": "JSON",
+        "header": "jerseyNumber",
+        "path": "jerseyNumber"
+      },
+      {
+        "type": "JSON",
+        "header": "position",
+        "path": "position"
+      },
+      {
+        "type": "JSON",
+        "header": "teamName",
+        "path": "teamName"
+      },
+      {
+        "type": "JSON",
+        "header": "teamId",
+        "path": "teamId"
+      },
+      {
+        "type": "JSON",
+        "header": "draftYear",
+        "path": "draftYear"
+      },
+      {
+        "type": "JSON",
+        "header": "draftRound",
+        "path": "draftRound"
+      },
+      {
+        "type": "JSON",
+        "header": "draftNumber",
+        "path": "draftNumber"
+      },
+      {
+        "type": "JSON",
+        "header": "greatest75",
+        "path": "greatest75"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "c_teamName",
+      "header": "teamName",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_homeCountry",
+      "header": "country",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_greatest75",
+      "header": "greatest75",
+      "subfieldPath": []
+    },
+    {
+      "field": "firstName",
+      "header": "First Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_weight",
+      "header": "weight",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_draftNumber",
+      "header": "draftNumber",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_draftRound",
+      "header": "draftRound",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_school",
+      "header": "school",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_seasonsPlayed",
+      "header": "seasonsPlayed",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_jerseyNumber",
+      "header": "jerseyNumber",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "id",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_position",
+      "header": "position",
+      "subfieldPath": []
+    },
+    {
+      "field": "lastName",
+      "header": "Last Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_height",
+      "header": "height",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_activeFrom1",
+      "header": "Rookie Year",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_activeUntil1",
+      "header": "Last Active Year",
+      "subfieldPath": []
+    }
+  ]
+}

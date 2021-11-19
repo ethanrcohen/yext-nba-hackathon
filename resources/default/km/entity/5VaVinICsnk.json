@@ -1,0 +1,34 @@
+{
+  "$id": "5VaVinICsnk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "this class practices what we do to practice our splitz! Grab a blanket or a sweatshirt for a prop. Have fun! Here\u0027s the playlist: ...",
+    "name": "fez flow - splitz part 1",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d5VaVinICsnk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-08-15",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/5VaVinICsnk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/WRDYylu9x4Tgt3j8t97-p0qWY_-By_Key5kV_b6bT8Q/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/WRDYylu9x4Tgt3j8t97-p0qWY_-By_Key5kV_b6bT8Q/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d5VaVinICsnk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

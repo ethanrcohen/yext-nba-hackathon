@@ -1,0 +1,34 @@
+{
+  "$id": "wWO8E_OmITE",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This yoga short twists our bodies around to help us get around and over ourselves. Grab a blanket for something comfy to sit on and twist it up! For more info on ...",
+    "name": "19 min. yoga short feat. twists",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dwWO8E_OmITE"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-11",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/wWO8E_OmITE/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/rOZAnd0bBhE4lgP1zfpCBFFcmpEXgL8tsod3DY47_Dg/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/rOZAnd0bBhE4lgP1zfpCBFFcmpEXgL8tsod3DY47_Dg/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dwWO8E_OmITE"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

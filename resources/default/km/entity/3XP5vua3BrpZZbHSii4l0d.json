@@ -1,0 +1,12 @@
+{
+  "$id": "3XP5vua3BrpZZbHSii4l0d",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/3XP5vua3BrpZZbHSii4l0d",
+    "name": "Sam Smith - In The Lonely Hour (Deluxe)"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

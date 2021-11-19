@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DXc2aPBXGmXrt",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DXc2aPBXGmXrt",
+    "description": "This is the essential Justin Bieber.",
+    "name": "This Is Justin Bieber",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f000000039cf2e21a96f217de5d3abf60",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/NfwemZSGixC0v6oPFqiyUYuNt4x0WvSCgPgpCh5j4h4/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/NfwemZSGixC0v6oPFqiyUYuNt4x0WvSCgPgpCh5j4h4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/NfwemZSGixC0v6oPFqiyUYuNt4x0WvSCgPgpCh5j4h4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/NfwemZSGixC0v6oPFqiyUYuNt4x0WvSCgPgpCh5j4h4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/NfwemZSGixC0v6oPFqiyUYuNt4x0WvSCgPgpCh5j4h4/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

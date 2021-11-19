@@ -1,0 +1,75 @@
+{
+  "$id": "ce_instructors",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_instructors",
+  "displayName": "Instructors",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_aboutMe"
+        },
+        {
+          "id": "c_pronouns"
+        },
+        {
+          "id": "c_hometown"
+        },
+        {
+          "id": "c_inspirationalQuote"
+        },
+        {
+          "id": "c_birthday"
+        },
+        {
+          "id": "c_training"
+        },
+        {
+          "id": "c_goToKaraokeSong"
+        },
+        {
+          "id": "c_specialTalent"
+        },
+        {
+          "id": "c_instagram"
+        },
+        {
+          "id": "linkedLocation"
+        },
+        {
+          "id": "logo"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

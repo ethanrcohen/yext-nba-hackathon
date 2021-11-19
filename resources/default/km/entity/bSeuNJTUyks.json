@@ -1,0 +1,34 @@
+{
+  "$id": "bSeuNJTUyks",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "heya friends! Apologies for the number of times my head is cut off in this vid lol but you\u0027ll still get all you need from these tips and tricks of using a blanket to ...",
+    "name": "20 min. yoga short feat. a blanket",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dbSeuNJTUyks"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-25",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/bSeuNJTUyks/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/36E5BkbbETNclmxaA3Pl77yuc10kwCY6C1Gn-NQeVUo/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/36E5BkbbETNclmxaA3Pl77yuc10kwCY6C1Gn-NQeVUo/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dbSeuNJTUyks"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

@@ -1,0 +1,52 @@
+{
+  "$id": "instructor-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_aboutMe": "My teachings celebrate yoga for its utility; Recognizing form for its function and weaving Taoism, metaphor, math and magic through a vigorous and inclusive practice.",
+    "c_birthday": "2022-06-05",
+    "c_favePlaylistRn": [
+      "7zunOhv0RRQBQ2cBY3GWhz"
+    ],
+    "c_goToKaraokeSong": "Hit Me Baby One More Time",
+    "c_hometown": "Teaneck, NJ",
+    "c_inspirationalQuote": "\"Becoming is better than being\"",
+    "c_instagram": "https://www.instagram.com/movewithfez",
+    "c_pronouns": "he/him",
+    "c_specialTalent": "I can cut an onion without crying",
+    "c_training": "10 years of studying with yoga teachers in the Himalayas.",
+    "linkedLocation": "location-3",
+    "logo": {
+      "image": {
+        "height": 1159,
+        "thumbnails": [
+          {
+            "height": 1159,
+            "url": "https://a.mktgcdn.com/p/z03KxN-zuDPOggcMlF9VZCLxJzfRz16sSQKLp7-gkrg/1159x1159.jpg",
+            "width": 1159
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p/z03KxN-zuDPOggcMlF9VZCLxJzfRz16sSQKLp7-gkrg/619x619.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/z03KxN-zuDPOggcMlF9VZCLxJzfRz16sSQKLp7-gkrg/450x450.jpg",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/z03KxN-zuDPOggcMlF9VZCLxJzfRz16sSQKLp7-gkrg/196x196.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/z03KxN-zuDPOggcMlF9VZCLxJzfRz16sSQKLp7-gkrg/1159x1159.jpg",
+        "width": 1159
+      }
+    },
+    "name": "Ami Berman"
+  },
+  "entityType": "ce_instructors",
+  "labels": []
+}

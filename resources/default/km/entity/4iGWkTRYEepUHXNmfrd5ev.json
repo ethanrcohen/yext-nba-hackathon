@@ -1,0 +1,12 @@
+{
+  "$id": "4iGWkTRYEepUHXNmfrd5ev",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/4iGWkTRYEepUHXNmfrd5ev",
+    "name": "eXp improv"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

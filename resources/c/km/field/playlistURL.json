@@ -1,0 +1,14 @@
+{
+  "$id": "c_playlistURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Playlist URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "string"
+}

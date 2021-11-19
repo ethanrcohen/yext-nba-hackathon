@@ -1,0 +1,20 @@
+{
+  "$id": "c_classType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Class Type",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce_classType"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

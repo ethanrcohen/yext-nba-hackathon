@@ -1,0 +1,12 @@
+{
+  "$id": "3gFPKVeo3zgGmYFaDhJwBb",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/3gFPKVeo3zgGmYFaDhJwBb",
+    "name": "solos"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "6z2IJccmqXhQZOIFKMKgNn",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "zzydor",
+    "c_playlistURL": "https://open.spotify.com/playlist/6z2IJccmqXhQZOIFKMKgNn",
+    "name": "Discover Keepers",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b27363a34611d69f56a18b338c39ab67616d0000b27376325e4086cddd085cf6dda6ab67616d0000b273c46332de26e6fb2d37dfff83ab67616d0000b273f7b4e1ac41b704d9e53c4b72",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/7mW2PiClktuOaplLq2ShBVIWXnbIQaf-2UvDTxmMabk/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7mW2PiClktuOaplLq2ShBVIWXnbIQaf-2UvDTxmMabk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7mW2PiClktuOaplLq2ShBVIWXnbIQaf-2UvDTxmMabk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7mW2PiClktuOaplLq2ShBVIWXnbIQaf-2UvDTxmMabk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7mW2PiClktuOaplLq2ShBVIWXnbIQaf-2UvDTxmMabk/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b27363a34611d69f56a18b338c39ab67616d0000b27376325e4086cddd085cf6dda6ab67616d0000b273c46332de26e6fb2d37dfff83ab67616d0000b273f7b4e1ac41b704d9e53c4b72",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/yy3GnOwdw8lPKwfshHd_nysXe1nLSNrB2n_QpkkwrL8/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yy3GnOwdw8lPKwfshHd_nysXe1nLSNrB2n_QpkkwrL8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yy3GnOwdw8lPKwfshHd_nysXe1nLSNrB2n_QpkkwrL8/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b27363a34611d69f56a18b338c39ab67616d0000b27376325e4086cddd085cf6dda6ab67616d0000b273c46332de26e6fb2d37dfff83ab67616d0000b273f7b4e1ac41b704d9e53c4b72",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/xUoMM_huvQU-fsZAnz_BupvmWIicS7yyx1yxemxMI2g/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xUoMM_huvQU-fsZAnz_BupvmWIicS7yyx1yxemxMI2g/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

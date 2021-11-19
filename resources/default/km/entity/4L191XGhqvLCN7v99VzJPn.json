@@ -1,0 +1,44 @@
+{
+  "$id": "4L191XGhqvLCN7v99VzJPn",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/4L191XGhqvLCN7v99VzJPn",
+    "name": "Various Artists – The Greatest Showman (Original Motion Picture Soundtrack)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/YO3xt8rn4H_5OYt1aKJ272xjlVyjIzB7o5aGpTV4E-A/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YO3xt8rn4H_5OYt1aKJ272xjlVyjIzB7o5aGpTV4E-A/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YO3xt8rn4H_5OYt1aKJ272xjlVyjIzB7o5aGpTV4E-A/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YO3xt8rn4H_5OYt1aKJ272xjlVyjIzB7o5aGpTV4E-A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YO3xt8rn4H_5OYt1aKJ272xjlVyjIzB7o5aGpTV4E-A/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

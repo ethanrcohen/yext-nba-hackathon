@@ -1,0 +1,49 @@
+{
+  "$id": "workshop-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_date": "2021-12-16",
+    "c_teacher": [
+      "instructor-2"
+    ],
+    "c_time": {
+      "friday": {
+        "isClosed": true
+      },
+      "monday": {
+        "isClosed": true
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "isClosed": false,
+        "openIntervals": [
+          {
+            "end": "12:00",
+            "start": "10:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "isClosed": true
+      },
+      "wednesday": {
+        "isClosed": true
+      }
+    },
+    "linkedLocation": "location-3",
+    "name": "Moving and Grooving Workshop",
+    "price": {
+      "currencyCode": "USD",
+      "value": "95"
+    },
+    "richTextDescription": "Let\u0027s move and groove and dance around however our bodies want us to in this workshop! We will get to listen to how we feel and let our bodies lead our minds in movement."
+  },
+  "entityType": "ce_workshopsAndTrainings",
+  "labels": []
+}

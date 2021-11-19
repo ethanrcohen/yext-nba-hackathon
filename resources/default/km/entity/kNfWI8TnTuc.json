@@ -1,0 +1,34 @@
+{
+  "$id": "kNfWI8TnTuc",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This is a mini class focusing on our calves! IDK about you, but my calves are always tight, so we\u0027re going to get into the backs of the legs and open them up, yay!",
+    "name": "16 min. yoga short feat. calf openers",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dkNfWI8TnTuc"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-15",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/kNfWI8TnTuc/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/aa5McDeJC6ZNZUP68KAV5TrxAA0aN-OvaGkpVQxm24Y/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/aa5McDeJC6ZNZUP68KAV5TrxAA0aN-OvaGkpVQxm24Y/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dkNfWI8TnTuc"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

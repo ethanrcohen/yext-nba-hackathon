@@ -1,0 +1,11 @@
+{
+  "$id": "c_series",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Series",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}

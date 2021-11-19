@@ -1,0 +1,34 @@
+{
+  "$id": "9lIIU80SGYk",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This is a mini class that builds you up to practicing a headstand! I give a lot of modifications if you\u0027ve never done a headstand before so go as far as you can and ...",
+    "name": "22 min. yoga short feat. a headstand",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d9lIIU80SGYk"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-28",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/9lIIU80SGYk/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/GBe29oLHwP4a3cNg7kCzOKcJ8j_pOt2XH_-mCPqvLmk/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/GBe29oLHwP4a3cNg7kCzOKcJ8j_pOt2XH_-mCPqvLmk/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d9lIIU80SGYk"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

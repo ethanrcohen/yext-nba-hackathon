@@ -1,0 +1,34 @@
+{
+  "$id": "5xNw6YXYKik",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "We got super flowy today in this one! Get ready to imagine yourself on a beach with the wind blowing across your face. For class you will need: 2 Blocks 1 ...",
+    "name": "fez flow - an energy flow flow",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d5xNw6YXYKik"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-07",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/5xNw6YXYKik/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/cg8sFpCPZ38A-InKLs5IBHvGGvGnrF_w3a2sMm-XaY0/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/cg8sFpCPZ38A-InKLs5IBHvGGvGnrF_w3a2sMm-XaY0/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d5xNw6YXYKik"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

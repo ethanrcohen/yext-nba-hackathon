@@ -1,0 +1,34 @@
+{
+  "$id": "t_u9Xb5dMaM",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "We get super twisty in this class and try out compass pose! Grab 2 blocks and a blanket (optional) and get ready to move things around to find your direction.",
+    "name": "fez flow - compass",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dt_u9Xb5dMaM"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-04-11",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/t_u9Xb5dMaM/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/0kG-RCE1g0s0ibnvFoXIW2kJgr-u6sJdKrwWwQyHjsI/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/0kG-RCE1g0s0ibnvFoXIW2kJgr-u6sJdKrwWwQyHjsI/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dt_u9Xb5dMaM"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

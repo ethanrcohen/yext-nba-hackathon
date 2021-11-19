@@ -1,0 +1,11 @@
+{
+  "$id": "classType-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "name": "Yoga for Beginners",
+    "richTextDescription": "Is it your first time doing yoga? This is the class for you. Come and move your body and have a new experience."
+  },
+  "entityType": "ce_classType",
+  "labels": []
+}

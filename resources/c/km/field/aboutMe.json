@@ -1,0 +1,29 @@
+{
+  "$id": "c_aboutMe",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "About Me",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BLOCK_QUOTE",
+        "BOLD",
+        "BULLETED_LIST",
+        "CODE_BLOCK",
+        "CODE_SPAN",
+        "HEADINGS",
+        "HORIZONTAL_LINE",
+        "HYPERLINK",
+        "IMAGE",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "STRIKETHROUGH",
+        "SUBSCRIPT",
+        "SUPERSCRIPT",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "richText"
+}

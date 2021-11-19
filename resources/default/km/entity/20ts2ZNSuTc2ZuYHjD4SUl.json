@@ -1,0 +1,80 @@
+{
+  "$id": "20ts2ZNSuTc2ZuYHjD4SUl",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/20ts2ZNSuTc2ZuYHjD4SUl",
+    "description": "Listen to this to get PUMPEDDD for tonight!!",
+    "name": "Timeflies Prep",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b273398f0577f6decc259e60fbf2ab67616d0000b273436655cf33b2e5136835fc13ab67616d0000b273d08a876b1e513b3c647ecb72ab67616d0000b273f7ffc65ac66f1de04e0aa82f",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/9fwFhnmYXeEccYEByy6REALhHRIYHidECu16RPz08L4/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9fwFhnmYXeEccYEByy6REALhHRIYHidECu16RPz08L4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9fwFhnmYXeEccYEByy6REALhHRIYHidECu16RPz08L4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9fwFhnmYXeEccYEByy6REALhHRIYHidECu16RPz08L4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9fwFhnmYXeEccYEByy6REALhHRIYHidECu16RPz08L4/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b273398f0577f6decc259e60fbf2ab67616d0000b273436655cf33b2e5136835fc13ab67616d0000b273d08a876b1e513b3c647ecb72ab67616d0000b273f7ffc65ac66f1de04e0aa82f",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/oASHXRdVfOVQebLf-5OX5H3soPlR_9b7enUyWLLwKzQ/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oASHXRdVfOVQebLf-5OX5H3soPlR_9b7enUyWLLwKzQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oASHXRdVfOVQebLf-5OX5H3soPlR_9b7enUyWLLwKzQ/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b273398f0577f6decc259e60fbf2ab67616d0000b273436655cf33b2e5136835fc13ab67616d0000b273d08a876b1e513b3c647ecb72ab67616d0000b273f7ffc65ac66f1de04e0aa82f",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/ghdWn0sXsSOcKS-juN8duw5N3G9w-VXBAVGkRZnjdc0/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ghdWn0sXsSOcKS-juN8duw5N3G9w-VXBAVGkRZnjdc0/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

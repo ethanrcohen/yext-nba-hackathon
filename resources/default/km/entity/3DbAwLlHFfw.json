@@ -1,0 +1,34 @@
+{
+  "$id": "3DbAwLlHFfw",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This is a mini class that incorporates a strap and a blanket to help you create space in your body. Grab a strap (can be a rope or belt or bathrobe tie) and a ...",
+    "name": "14 min. yoga short feat. a strap + a blanket",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d3DbAwLlHFfw"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-03-22",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/3DbAwLlHFfw/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/HBaGgoJ-kl1j6WEy93e8t75XUo3ssQPC1g7sUJRkdbs/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/HBaGgoJ-kl1j6WEy93e8t75XUo3ssQPC1g7sUJRkdbs/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d3DbAwLlHFfw"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

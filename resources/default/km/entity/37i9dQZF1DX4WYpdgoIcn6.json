@@ -1,0 +1,45 @@
+{
+  "$id": "37i9dQZF1DX4WYpdgoIcn6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Spotify",
+    "c_playlistURL": "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6",
+    "description": "Kick back to the best new and recent chill tunes.",
+    "name": "Chill Hits",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://i.scdn.co/image/ab67706f00000003ac10fb2125b4c86478c85a20",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/hg04CVUf2_4YQlM53EOjniLFqedb7uTvkDhB4xjavI8/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hg04CVUf2_4YQlM53EOjniLFqedb7uTvkDhB4xjavI8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hg04CVUf2_4YQlM53EOjniLFqedb7uTvkDhB4xjavI8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hg04CVUf2_4YQlM53EOjniLFqedb7uTvkDhB4xjavI8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hg04CVUf2_4YQlM53EOjniLFqedb7uTvkDhB4xjavI8/640x640.jpg",
+          "width": 640
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

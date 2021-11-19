@@ -1,0 +1,34 @@
+{
+  "$id": "3rNUo5kZIFU",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This was the last class I filmed in 2020 and it was a FUN one! We did some of my favorite moves, including some fun forward folds that really get into the backs of ...",
+    "name": "fez flow - Forward Folds, etc",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d3rNUo5kZIFU"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/3rNUo5kZIFU/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/l2BQN6UmtjZGa8D5xMxPOOJVE7eLYyI5gd1zG4mm1ok/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/l2BQN6UmtjZGa8D5xMxPOOJVE7eLYyI5gd1zG4mm1ok/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003d3rNUo5kZIFU"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

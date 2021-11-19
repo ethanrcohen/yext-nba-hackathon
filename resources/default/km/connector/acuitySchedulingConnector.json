@@ -1,0 +1,218 @@
+{
+  "$id": "acuitySchedulingConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v2",
+  "displayName": "Acuity Scheduling Connector",
+  "entityType": "event",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://acuityscheduling.com/api/v1/availability/classes",
+        "authentication": {
+          "basicAuthentication": {
+            "username": "${{km/connector.acuitySchedulingConnector.api_username}}",
+            "password": "${{km/connector.acuitySchedulingConnector.api_password}}"
+          }
+        },
+        "headers": {},
+        "queryParams": {
+          "includePrivate": "true",
+          "includeUnavailable": "true"
+        },
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "[*]"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "Event ID",
+        "path": "id"
+      },
+      {
+        "type": "JSON",
+        "header": "Name",
+        "path": "name"
+      },
+      {
+        "type": "JSON",
+        "header": "Calendar Name",
+        "path": "calendar"
+      },
+      {
+        "type": "JSON",
+        "header": "Event Duration",
+        "path": "duration"
+      },
+      {
+        "type": "JSON",
+        "header": "Series",
+        "path": "isSeries"
+      },
+      {
+        "type": "JSON",
+        "header": "Total Spots",
+        "path": "slots"
+      },
+      {
+        "type": "JSON",
+        "header": "Spots Available ",
+        "path": "slotsAvailable"
+      },
+      {
+        "type": "JSON",
+        "header": "Color ",
+        "path": "color"
+      },
+      {
+        "type": "JSON",
+        "header": "Price ",
+        "path": "price"
+      },
+      {
+        "type": "JSON",
+        "header": "Category",
+        "path": "category"
+      },
+      {
+        "type": "JSON",
+        "header": "Description",
+        "path": "description"
+      },
+      {
+        "type": "JSON",
+        "header": "Calendar Timezone",
+        "path": "calendarTimezone"
+      },
+      {
+        "type": "JSON",
+        "header": "Time",
+        "path": "time"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "mergeColumns": {
+        "inputHeaders": [
+          "Time",
+          "Event Duration"
+        ],
+        "newColumnHeader": "End Time",
+        "delimiter": ","
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "End Time"
+          ]
+        },
+        "plugin": "acuityScheduling_computeEndTime",
+        "function": "computeEndTime"
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Time",
+        "newColumnHeader": "Formatted Start Time",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 16
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "End Time",
+        "newColumnHeader": "Formatted End Time",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 16
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "time",
+      "header": "Formatted Start Time",
+      "subfieldPath": [
+        {
+          "name": "start"
+        }
+      ]
+    },
+    {
+      "field": "c_series",
+      "header": "Series",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_eventDuration",
+      "header": "Event Duration",
+      "subfieldPath": []
+    },
+    {
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "categories",
+      "header": "Category",
+      "subfieldPath": []
+    },
+    {
+      "field": "timezone",
+      "header": "Calendar Timezone",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "Event ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_totalSpots",
+      "header": "Total Spots",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_classPrice",
+      "header": "Price ",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_spotsAvailable",
+      "header": "Spots Available ",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "time",
+      "header": "Formatted End Time",
+      "subfieldPath": [
+        {
+          "name": "end"
+        }
+      ]
+    }
+  ],
+  "scheduleConfig": {
+    "customSchedule": {
+      "timeZone": "America/New_York",
+      "startDate": "2021-11-19",
+      "startTime": "00:00",
+      "frequencyType": "DAILY"
+    },
+    "runMode": "COMPREHENSIVE"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "$id": "3wuM6pwBMn5tcTTaWd4S9v",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/3wuM6pwBMn5tcTTaWd4S9v",
+    "name": "sleep bora bora",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 640,
+          "sourceUrl": "https://mosaic.scdn.co/640/ab67616d0000b2732dca08c1cc4f9b302906ededab67616d0000b2735d18549d331d08a308248e54ab67616d0000b2737daa864db10e1f233859749dab67616d0000b273def05abd2a12cd19243e2b6d",
+          "thumbnails": [
+            {
+              "height": 640,
+              "url": "http://a.mktgcdn.com/p/xbQ7rPDDmRpry-F-YBEvCdMv1dYRz7B_gGqMUaqOswY/640x640.jpg",
+              "width": 640
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xbQ7rPDDmRpry-F-YBEvCdMv1dYRz7B_gGqMUaqOswY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xbQ7rPDDmRpry-F-YBEvCdMv1dYRz7B_gGqMUaqOswY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xbQ7rPDDmRpry-F-YBEvCdMv1dYRz7B_gGqMUaqOswY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xbQ7rPDDmRpry-F-YBEvCdMv1dYRz7B_gGqMUaqOswY/640x640.jpg",
+          "width": 640
+        }
+      },
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://mosaic.scdn.co/300/ab67616d0000b2732dca08c1cc4f9b302906ededab67616d0000b2735d18549d331d08a308248e54ab67616d0000b2737daa864db10e1f233859749dab67616d0000b273def05abd2a12cd19243e2b6d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p/XeM7G04neIRtR1DxAFheCTMslX_DJ43M2A2Y6Vyrn_A/300x300.jpg",
+              "width": 300
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XeM7G04neIRtR1DxAFheCTMslX_DJ43M2A2Y6Vyrn_A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XeM7G04neIRtR1DxAFheCTMslX_DJ43M2A2Y6Vyrn_A/300x300.jpg",
+          "width": 300
+        }
+      },
+      {
+        "image": {
+          "height": 60,
+          "sourceUrl": "https://mosaic.scdn.co/60/ab67616d0000b2732dca08c1cc4f9b302906ededab67616d0000b2735d18549d331d08a308248e54ab67616d0000b2737daa864db10e1f233859749dab67616d0000b273def05abd2a12cd19243e2b6d",
+          "thumbnails": [
+            {
+              "height": 60,
+              "url": "http://a.mktgcdn.com/p/1BhB3pLhZ-ZVAcojgPvaOTF6tofmORg7m-r0WVXSyj8/60x60.jpg",
+              "width": 60
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1BhB3pLhZ-ZVAcojgPvaOTF6tofmORg7m-r0WVXSyj8/60x60.jpg",
+          "width": 60
+        }
+      }
+    ]
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

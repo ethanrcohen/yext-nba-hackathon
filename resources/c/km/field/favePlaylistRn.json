@@ -1,0 +1,20 @@
+{
+  "$id": "c_favePlaylistRn",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Fave Playlist RN",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "ce__spotifyPlaylist"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

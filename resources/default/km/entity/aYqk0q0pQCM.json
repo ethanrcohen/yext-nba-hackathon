@@ -1,0 +1,34 @@
+{
+  "$id": "aYqk0q0pQCM",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "Grab a blanket and get ready to have fun! This is one of my all time fave flows because blankets are such a helpful tool in yoga. I also think the name of class is ...",
+    "name": "fez flow - BYOB(lanket)",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003daYqk0q0pQCM"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-01-03",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/aYqk0q0pQCM/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/2XV3MFGkqEoDIlA4QoxbGHIDDzTfXj8kHmuOxcZOOPI/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/2XV3MFGkqEoDIlA4QoxbGHIDDzTfXj8kHmuOxcZOOPI/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003daYqk0q0pQCM"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

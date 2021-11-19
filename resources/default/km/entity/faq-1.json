@@ -1,0 +1,12 @@
+{
+  "$id": "faq-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "Yes, our doors are open after they were closed for many months. However, we want everyone to have a safe and loving experience, so we have strict cleaning protocols and studio guidelines. Vaccination cards are required to practice in studio. All students must present proof of vaccination before class begins. Once received, it is noted in each student\u0027s profile in our system. All staff and teachers who are working in person classes are fully vaccinated. We\u0027re operating at 50% capacity so each student has more space between mats. We encourage all students to bring their own mats and props to practice. The safety of our community is our number one priority and we are diligent in maintaining these standards so we can continue to practice in person. Take care of yourself, and your neighbor!",
+    "name": "Are you open during Covid?",
+    "question": "Are you open during Covid?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

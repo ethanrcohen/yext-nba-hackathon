@@ -1,0 +1,34 @@
+{
+  "$id": "ZeWiXxcjdpo",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "description": "This is a nice slow flow that gets into our hips. Get ready to go inward and do some fun pigeon variations. For more info on upcoming events and classes, check ...",
+    "name": "fez flow - grounded hips flow",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dZeWiXxcjdpo"
+        }
+      }
+    ],
+    "youtube_channelID": "UC-SZBwJvvAszAFjCL_LUxdg",
+    "youtube_publishedAt": "2021-06-14",
+    "youtube_thumbnailPhoto": {
+      "height": 90,
+      "sourceUrl": "https://i.ytimg.com/vi/ZeWiXxcjdpo/default.jpg",
+      "thumbnails": [
+        {
+          "height": 90,
+          "url": "http://a.mktgcdn.com/p/7kvk1-_cMsgA_aBlMwzLqas-YQAqSP5RO1VLICH6h7E/120x90.jpg",
+          "width": 120
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/7kvk1-_cMsgA_aBlMwzLqas-YQAqSP5RO1VLICH6h7E/120x90.jpg",
+      "width": 120
+    },
+    "youtube_videoURL": "https://www.youtube.com/watch?v\u003dZeWiXxcjdpo"
+  },
+  "entityType": "youtube_video",
+  "labels": []
+}

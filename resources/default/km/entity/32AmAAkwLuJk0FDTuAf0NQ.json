@@ -1,0 +1,12 @@
+{
+  "$id": "32AmAAkwLuJk0FDTuAf0NQ",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_playlistOwner": "Dana Fesjian",
+    "c_playlistURL": "https://open.spotify.com/playlist/32AmAAkwLuJk0FDTuAf0NQ",
+    "name": "euro pods"
+  },
+  "entityType": "ce__spotifyPlaylist",
+  "labels": []
+}

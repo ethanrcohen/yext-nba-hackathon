@@ -1,0 +1,11 @@
+{
+  "$id": "c_greatest75",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Greatest 75",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "booleanType": {}
+  },
+  "typeId": "boolean"
+}
