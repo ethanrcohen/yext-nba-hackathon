@@ -37,7 +37,6 @@ class PlayerInfo {
   greatest75: boolean;
 
   constructor(playerInfo: any) {
-    console.log(playerInfo);
     this.id = playerInfo[0];
     this.firstName = playerInfo[1];
     this.lastName = playerInfo[2];
@@ -92,28 +91,52 @@ interface ApiResponse {
 const allPlayersUrl = 'https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=1&LeagueID=00&Season=2021-22';
 
 async function fetchPlayers(): Promise<Array<PlayerInfo>> {
+  // const resp = await fetch(allPlayersUrl, { headers: headers });
+  // const resp2 = resp.clone();
+  // try {
+  //   const json = await resp.json();
+  //   console.log(json);
+  //   console.log(resp);
+  // } catch (error) {
+  //   console.log(error);
+  //   const text = await resp2.text();
+  // // Why does this dumb api return 200 but have an error like 95% of the time
+  //   if (text.includes("We are unable to process your request at the moment")) {
+  //     console.log("api broken?")
+  //   } else console.log(text);
+  // }
   return await fetch(allPlayersUrl, { headers: headers })
-    .then(response => response.json())
+    .then(response => {
+      try {
+        return response.json();
+      } catch (error) {
+        console.log(error);
+        console.log(response.text);
+      }
+    })
     .then(json => (<ApiResponse>json).resultSets[0].rowSet)
     .then(allPlayersJson => allPlayersJson.map(player => new BasicPlayerInfo(player)).filter(p => p.fromYear >= 1996))
-    .then(players => Promise.all(players.slice(0, 5).map(p => fetchPlayerInfo(p.id))));
+    // TODO: figure out the flakiness and then remove this slice
+    .then(players => Promise.all(players.slice(0, 10).map(p => fetchPlayerInfo(p.id))));
 }
 
 async function fetchPlayerInfo(id: number): Promise<PlayerInfo> {
   const playerInfoUrl = `https://stats.nba.com/stats/commonplayerinfo?PlayerID=${id}`;
   // const resp = await fetch(playerInfoUrl, { headers: headers });
-  // console.log(resp.json());
+  // const json = await resp.json();
+  // console.log(json);
+  // console.log(resp);
   return await fetch(playerInfoUrl, { headers: headers })
     .then(response => response.json(), console.log)
     .then(json => (<ApiResponse>json).resultSets[0].rowSet)
     .then(playerInfoJson => new PlayerInfo(playerInfoJson[0]));
 }
 
+// TODO(ecohen): pagination by league year?
 export const dataSource = async (inputString: string) => {
 
   const players = await fetchPlayers();
 
   return JSON.stringify({ "data": players });
 }
-dataSource("").then(console.log);
-// fetchPlayers().then(p => console.log(p));
+// dataSource("").then(console.log);
