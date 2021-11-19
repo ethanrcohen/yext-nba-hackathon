@@ -108,4 +108,11 @@ async function fetchPlayerInfo(id: number): Promise<PlayerInfo> {
     .then(playerInfoJson => new PlayerInfo(playerInfoJson));
 }
 
+export const dataSource = async (inputString: string) => {
+
+  const players = await fetchPlayers();
+
+  return JSON.stringify({ "data": players });
+}
+
 // fetchPlayers().then(p => console.log(p));
