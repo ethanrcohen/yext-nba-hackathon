@@ -37,6 +37,7 @@ class PlayerInfo {
   greatest75: boolean;
 
   constructor(playerInfo: any) {
+    console.log(playerInfo);
     this.id = playerInfo[0];
     this.firstName = playerInfo[1];
     this.lastName = playerInfo[2];
@@ -105,7 +106,7 @@ async function fetchPlayerInfo(id: number): Promise<PlayerInfo> {
   return await fetch(playerInfoUrl, { headers: headers })
     .then(response => response.json(), console.log)
     .then(json => (<ApiResponse>json).resultSets[0].rowSet)
-    .then(playerInfoJson => new PlayerInfo(playerInfoJson));
+    .then(playerInfoJson => new PlayerInfo(playerInfoJson[0]));
 }
 
 export const dataSource = async (inputString: string) => {
