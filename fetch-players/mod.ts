@@ -1,8 +1,6 @@
-const allPlayersUrl = 'https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season=2010-22';
-
+// headers needed for the nba api, per the python library on github
 const headers =
 {
-  'Postman-Token': '3b6b2aea-3cdc-476c-97fc-5b38aba78ff7',
   'cache-control': 'no-cache',
   'Cache-Control': 'no-cache',
   Pragma: 'no-cache',
@@ -16,24 +14,73 @@ const headers =
   Host: 'stats.nba.com'
 };
 
-
 class PlayerInfo {
   id: number;
   firstName: string;
   lastName: string;
+  fromYear: Date;
+  toYear: Date;
+
+  birthdate: Date;
+  country: string;
+  school: string;
+  height: string;
+  weight: number;
+  seasonsPlayed: number;
+  jerseyNumber: number;
+  position: string;
+  teamName: string;
+  teamId: number;
+  draftYear: Date;
+  draftRound: number;
+  draftNumber: number;
+  greatest75: boolean;
+
+  constructor(playerInfo: any) {
+    this.id = playerInfo[0];
+    this.firstName = playerInfo[1];
+    this.lastName = playerInfo[2];
+
+    this.birthdate = new Date(playerInfo[7]);
+    this.school = playerInfo[8];
+    this.country = playerInfo[9];
+    this.height = playerInfo[11];
+    this.weight = parseInt(playerInfo[12]);
+    this.seasonsPlayed = playerInfo[13];
+    this.jerseyNumber = parseInt(playerInfo[14]);
+    this.position = playerInfo[15];
+
+    this.teamId = playerInfo[18];
+    this.teamName = playerInfo[19];
+
+    this.fromYear = playerInfo[24];
+    this.toYear = playerInfo[25];
+    this.draftYear = new Date(playerInfo[29]);
+    this.draftRound = parseInt(playerInfo[30]);
+    this.draftNumber = parseInt(playerInfo[31]);
+    this.greatest75 = playerInfo[32] == 'Y';
+  }
+}
+
+// The basic play info that is returned from the all players
+// endpoint. Just use this to filter our player set and then get the full
+// player info
+class BasicPlayerInfo {
+  id: number;
   fromYear: number;
   toYear: number;
 
   constructor(playerInfo: any) {
     this.id = playerInfo[0];
-    const commaSeparatedName = playerInfo[1];
-    [this.lastName, this.firstName] = commaSeparatedName.split(',');
     this.fromYear = playerInfo[4];
     this.toYear = playerInfo[5];
   }
 }
 
-interface PlayerInfoResponse {
+// The shape of the response from the nba stats api
+interface ApiResponse {
+  resource: string,
+  parameters: object,
   resultSets: Array<{
     name: string,
     headers: Array<any>,
@@ -41,20 +88,24 @@ interface PlayerInfoResponse {
   }>
 }
 
+const allPlayersUrl = 'https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season=2010-22';
+
 async function fetchPlayers(): Promise<Array<PlayerInfo>> {
   return await fetch(allPlayersUrl, { headers: headers })
     .then(response => response.json())
-    .then(json => (<PlayerInfoResponse>json).resultSets[0].rowSet)
-    .then(allPlayersJson => allPlayersJson.map(player => new PlayerInfo(player)))
+    .then(json => (<ApiResponse>json).resultSets[0].rowSet)
+    .then(allPlayersJson => allPlayersJson.map(player => new BasicPlayerInfo(player)).filter(p => p.fromYear >= 1996))
+    .then(players => Promise.all(players.map(p => fetchPlayerInfo(p.id))));
 }
 
-
-export const getPlayersSince96 = async () => {
-  const players = await fetchPlayers();
-  console.log(players);
-
-  return players.filter(p => p.fromYear >= 1996);
+async function fetchPlayerInfo(id: number): Promise<PlayerInfo> {
+  const playerInfoUrl = `https://stats.nba.com/stats/commonplayerinfo?PlayerID=${id}`;
+  // const resp = await fetch(playerInfoUrl, { headers: headers });
+  // console.log(resp.json());
+  return await fetch(playerInfoUrl, { headers: headers })
+    .then(response => response.json(), console.log)
+    .then(json => (<ApiResponse>json).resultSets[0].rowSet)
+    .then(playerInfoJson => new PlayerInfo(playerInfoJson));
 }
 
-
-//getPlayersSince96().then(console.log)
+// fetchPlayers().then(p => console.log(p));
