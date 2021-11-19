@@ -88,14 +88,14 @@ interface ApiResponse {
   }>
 }
 
-const allPlayersUrl = 'https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season=2010-22';
+const allPlayersUrl = 'https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=1&LeagueID=00&Season=2021-22';
 
 async function fetchPlayers(): Promise<Array<PlayerInfo>> {
   return await fetch(allPlayersUrl, { headers: headers })
     .then(response => response.json())
     .then(json => (<ApiResponse>json).resultSets[0].rowSet)
     .then(allPlayersJson => allPlayersJson.map(player => new BasicPlayerInfo(player)).filter(p => p.fromYear >= 1996))
-    .then(players => Promise.all(players.map(p => fetchPlayerInfo(p.id))));
+    .then(players => Promise.all(players.slice(0, 5).map(p => fetchPlayerInfo(p.id))));
 }
 
 async function fetchPlayerInfo(id: number): Promise<PlayerInfo> {
@@ -114,5 +114,5 @@ export const dataSource = async (inputString: string) => {
 
   return JSON.stringify({ "data": players });
 }
-
+dataSource("").then(console.log);
 // fetchPlayers().then(p => console.log(p));
